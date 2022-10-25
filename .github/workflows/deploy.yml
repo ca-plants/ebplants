@@ -17,20 +17,16 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '*'
-      #- uses: actions/configure-pages@v2
       - run: npm update
       - run: npx @ca-plant-list/ca-plant-list
-      - uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./output
-          destination: ./_site
-          verbose: true
+      - uses: lemonarc/jekyll-action@1
       - uses: actions/upload-pages-artifact@v1
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    if: false
     needs: build
     steps:
       - name: Deploy to GitHub Pages
