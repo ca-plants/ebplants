@@ -20,16 +20,13 @@ jobs:
       - run: npm update
       - run: npx @ca-plant-list/ca-plant-list
 
-        # Use GitHub Actions' cache to shorten build times and decrease load on servers
-      - uses: actions/cache@v1
+      - uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-
+          ruby-version: '3.0'
+          bundler-cache: true
       - run: bundle config path vendor/bundle
-      - run: bundle install
+      - run: gem install jekyll
+      - run: jekyll --source "./output" --baseurl "/ebplants"
 
       - uses: actions/upload-pages-artifact@v1
   deploy:
@@ -37,7 +34,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    if: false
     needs: build
     steps:
       - name: Deploy to GitHub Pages
