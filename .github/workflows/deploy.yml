@@ -11,7 +11,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '*'
-      - uses: actions/configure-pages@v2
+      #- uses: actions/configure-pages@v2
       - run: npm update
       - run: npx @ca-plant-list/ca-plant-list
       - uses: actions/jekyll-build-pages@v1
