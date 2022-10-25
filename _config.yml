@@ -1,0 +1,10 @@
+source: output
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "html"
+
+navbar-name: East Bay Plants
