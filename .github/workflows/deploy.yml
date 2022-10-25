@@ -12,3 +12,4 @@ jobs:
         with:
           node-version: '*'
       - run: npm update
+      - run: npx @ca-plant-list/ca-plant-list
