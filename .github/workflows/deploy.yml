@@ -19,7 +19,7 @@ jobs:
           node-version: '*'
       - run: npm update
       - run: npx @ca-plant-list/ca-plant-list
-      - uses: lemonarc/jekyll-action@1
+      - uses: lemonarc/jekyll-action@1.0.0
       - uses: actions/upload-pages-artifact@v1
   deploy:
     environment:
