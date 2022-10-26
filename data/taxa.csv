@@ -361,7 +361,7 @@ Chenopodium murale,sowbane,X,19182,1983,61811
 Chenopodium rubrum,red goosefoot,N,19200,1988,76285
 Chenopodium vulvaria,stinking goosefoot,X,19212,1991,76288
 Chlorogalum pomeridianum var. pomeridianum,"soap plant,amole",N,56471,2006,59082
-Chloropyron maritimum subsp. palustre,pt reyes bird's-beak,N,93766,11259,79707
+Chloropyron maritimum subsp. palustre,Pt. Reyes bird's-beak,N,93766,11259,79707
 Chloropyron molle subsp. hispidum,hispid bird's-beak,N,93770,11260,79708
 Chloropyron molle subsp. molle,soft bird's-beak,N,93771,11261,79709
 Chloropyron palmatum,palmate bird's-beak,N,93768,11256,76298
@@ -375,11 +375,11 @@ Cicendia quadrangularis,Oregon timwort,N,19440,2105,57087
 Cichorium intybus,chicory,X,2087,2107,52913
 Cicuta douglasii,water hemlock,N,19447,2109,76338
 Cicuta maculata var. bolanderi,water hemlock,N,56538,2111,60118
-Cirsium andrewsii,franciscan thistle,N,2094,2116,55294
+Cirsium andrewsii,Franciscan thistle,N,2094,2116,55294
 Cirsium brevistylum,Indian thistle,N,2110,2119,52993
 Cirsium cymosum var. cymosum,peregrine thistle,N,85528,11529,80584
 Cirsium douglasii var. douglasii,swamp thistle,N,7046,2127,80586
-Cirsium fontinale var. campylon,hamilton thistle,N,77400,2129,59750
+Cirsium fontinale var. campylon,Hamilton thistle,N,77400,2129,59750
 Cirsium occidentale var. californicum,California thistle,N,77401,2140,52622
 Cirsium occidentale var. occidentale,cobweb thistle,N,7069,2143,52623
 Cirsium occidentale var. venustum,venus thistle,N,56557,2144,52624
@@ -704,7 +704,7 @@ Fallopia japonica,Japanese knotweed,X,82464,10891,77130
 Festuca arundinacea,tall fescue,X,25783,3576,77134
 Festuca bromoides,,X,25855,11687,77136
 Festuca californica,California fescue,N,25791,3578,57169
-Festuca elmeri,elmer fescue,N,25798,3580,64333
+Festuca elmeri,Elmer fescue,N,25798,3580,64333
 Festuca idahoensis,Idaho fescue,N,25808,3581,61200
 Festuca microstachys,,N,25865,11688,77138
 Festuca myuros,zorro grass,X,25869,11689,77140
@@ -864,7 +864,7 @@ Isolepis carinata,,N,80405,9608,77515
 Isolepis cernua,,N,79218,9605,60257
 Iva axillaris,poverty weed,N,3654,10020,58837
 Jaumea carnosa,,N,3667,4424,60969
-Juglans hindsii,n California black walnut,N,29568,8943,54502
+Juglans hindsii,Northern California black walnut,N,29568,8943,54502
 Juncus acuminatus,tapered rush,N,29592,4432,77549
 Juncus ambiguus,frog rush,X,29601,4434,57101
 Juncus articulatus subsp. articulatus,jointed rush,N,91767,11773,79958
@@ -909,7 +909,7 @@ Lasthenia fremontii,goldfields,N,3733,4583,57997
 Lasthenia glaberrima,goldfields,N,3734,4584,60137
 Lasthenia glabrata subsp. glabrata,,N,6125,4587,64193
 Lasthenia gracilis,,N,79082,9143,56761
-Lasthenia maritima,farallon weed,N,3738,4592,64253
+Lasthenia maritima,Farallon weed,N,3738,4592,64253
 Lasthenia microglossa,,N,3739,4593,58001
 Lasthenia minor,,N,3740,4594,58002
 Lasthenia platycarpha,,N,3741,4595,60138
@@ -1140,7 +1140,7 @@ Navarretia atractyloides,,N,34444,5768,58251
 Navarretia cotulifolia,,N,34446,5770,60224
 Navarretia gowenii,Gowen's navarretia,N,88836,10741,78180
 Navarretia hamata subsp. parviloba,hooked navarretia,N,51666,5780,80048
-Navarretia heterandra,tehama navarretia,N,34453,5781,78181
+Navarretia heterandra,Tehama navarretia,N,34453,5781,78181
 Navarretia intertexta,needleleaf navarretia,N,34455,5783,60225
 Navarretia mellita,,N,34465,5794,58975
 Navarretia nigelliformis subsp. radians,adobe navarretia,N,51677,5798,80060
@@ -1632,7 +1632,7 @@ Trichostema lanceolatum,vinegar weed,N,46991,8032,54875
 Trifolium albopurpureum,Indian clover,N,47029,8043,58162
 Trifolium angustifolium,narrowleaf clover,X,47040,8051,69939
 Trifolium barbigerum,bearded clover,N,47049,8054,57074
-Trifolium bifidum var. bifidum,pinole clover,N,73999,8059,61180
+Trifolium bifidum var. bifidum,Pinole clover,N,73999,8059,61180
 Trifolium bifidum var. decipiens,,N,67259,8060,57075
 Trifolium campestre,hop clover,X,47059,8064,57076
 Trifolium ciliolatum,foothill clover,N,47063,8065,60197
