@@ -3,7 +3,6 @@
     "eslint": "^8.26.0"
   },
   "dependencies": {
-    "@ca-plant-list/ca-plant-list": "^0.0.1",
-    "ca-plant-list": "file:../ca-plant-list"
+    "@ca-plant-list/ca-plant-list": "^0.0.1"
   }
 }

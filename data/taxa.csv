@@ -176,7 +176,7 @@ Atriplex prostrata,spearscale,X,15260,11366,60176
 Atriplex rosea,tumbling orach,X,15265,1002,58121
 Atriplex semibaccata,Australian saltbush,X,15267,1003,60177
 Atriplex serenana var. serenana,bractscale,N,55036,1006,80470
-Atriplex suberecta,sprwaling saltbush,X,15272,1008,58123
+Atriplex suberecta,sprawling saltbush,X,15272,1008,58123
 Avena barbata,slender wild oat,X,15320,1017,52696
 Avena fatua,wild oat,X,15321,1018,52698
 Avena sterilis,,X,15325,1021,75722
@@ -209,7 +209,7 @@ Bolboschoenus maritimus subsp. paludosus,saltmarsh bulrush,N,49436,10796,79646
 Bolboschoenus robustus,seacoast bulrush,N,77450,10798,75840
 Bowlesia incana,,N,15999,1133,56822
 Brachypodium distachyon,false-brome,X,16042,1137,57158
-Brassica juncea,india mustard,X,16072,1142,64241
+Brassica juncea,India mustard,X,16072,1142,64241
 Brassica nigra,black mustard,X,16079,1144,53112
 Brassica oleracea,cabbage,X,16080,9040,54516
 Brassica rapa,field mustard,X,16081,1145,53271
@@ -832,7 +832,7 @@ Hordeum brachyantherum subsp. brachyantherum,meadow barley,N,76411,4219,61834
 Hordeum brachyantherum subsp. californicum,California barley,N,76414,4220,59092
 Hordeum depressum,low barley,N,28384,4221,58378
 Hordeum jubatum subsp. jubatum,foxtail barley,N,50967,11730,79941
-Hordeum marinum subsp. gussoneanum,mediterranean barley,X,50968,4224,63879
+Hordeum marinum subsp. gussoneanum,Mediterranean barley,X,50968,4224,63879
 Hordeum murinum subsp. glaucum,,X,50970,4226,61204
 Hordeum murinum subsp. leporinum,,X,50971,4227,52795
 Hordeum murinum subsp. murinum,,X,50972,4228,63333
@@ -1052,7 +1052,7 @@ Malacothrix floccifera,,N,4064,5328,58842
 Malva assurgentiflora,island mallow,NC,89039,11817,77951
 Malva nicaeensis,bull mallow,X,32602,5353,61043
 Malva parviflora,cheeseweed,X,32604,5354,58202
-Malva pseudolavatera,cretan mallow,X,89042,11818,77953
+Malva pseudolavatera,Cretan mallow,X,89042,11818,77953
 Malvella leprosa,alkali-mallow,N,32649,5356,58203
 Marah fabacea,California man-root,N,101920,11820,205330
 Marah oregana,coast man-root,N,101917,11823,77960
@@ -1240,7 +1240,7 @@ Phalaris lemmonii,Lemmon's canary grass,N,37609,6422,60299
 Phalaris minor,little seed canary grass,X,37610,6423,57194
 Phalaris paradoxa,hooded canary grass,X,37611,6424,60302
 Phelipanche ramosa,,X,103318,13518,804770
-Phoenix canariensis,canary island date palm,X,37878,6449,78554
+Phoenix canariensis,Canary Island date palm,X,37878,6449,78554
 Pholistoma auritum var. auritum,fiesta flower,N,63599,6455,58926
 Pholistoma membranaceum,white fiesta flower,N,37886,6456,57352
 Phoradendron leucarpum subsp. macrophyllum,big leaf mistletoe,N,98417,13230,166732
@@ -1401,7 +1401,7 @@ Raphanus sativus,wild radish,X,40992,7064,55410
 Rhamnus alaternus,Italian buckthorn,X,81104,9447,82856
 Rhamnus crocea,spiny redberry,N,41069,7075,57243
 Rhamnus ilicifolia,holly-leaf redberry,N,41070,7076,58308
-Rhaponticum repens,russian knapweed,X,103802,13621,339502
+Rhaponticum repens,Russian knapweed,X,103802,13621,339502
 Rhus aromatica,skunkbrush,N,41175,11056,58738
 Ribes amarum,bitter gooseberry,N,41372,7099,53433
 Ribes aureum var. gracillimum,golden currant,N,65126,7104,55547
@@ -1423,7 +1423,7 @@ Rosa californica,California rose,N,41631,7179,53437
 Rosa gymnocarpa,wood rose,N,41652,7182,53441
 Rosa rubiginosa,sweet-brier,X,41648,7182,78886
 Rosa spithamea,ground rose,N,41696,7187,53442
-Rubus armeniacus,himalayan blackberry,X,87465,10319,61317
+Rubus armeniacus,Himalayan blackberry,X,87465,10319,61317
 Rubus laciniatus,cutleaf blackberry,X,42009,7195,78891
 Rubus parviflorus,thimbleberry,N,42108,7200,51646
 Rubus pensilvanicus,,X,42114,7202,78894
@@ -1464,7 +1464,7 @@ Salix sitchensis,Sitka willow,N,42994,7291,61100
 Salpichroa origanifolia,,X,43020,7292,78954
 Salsola australis,,X,43028,12003,78955
 Salsola soda,,X,43034,7295,78960
-Salsola tragus,russian thistle,X,43032,7296,57896
+Salsola tragus,Russian thistle,X,43032,7296,57896
 Salvia apiana,,NC,43038,7298,64134
 Salvia carduacea,thistle sage,N,43046,7300,58190
 Salvia columbariae,chia,N,43049,7302,53200
@@ -1485,7 +1485,7 @@ Sanicula tuberosa,,N,43190,7341,56842
 Scabiosa atropurpurea,pincushion flower,X,43445,7374,78988
 Scandix pecten-veneris,Venus' needle,X,43465,7376,56843
 Schinus molle,peruvian pepper-tree,X,43505,7378,57354
-Schismus arabicus,mediterranean grass,X,43510,7380,58384
+Schismus arabicus,Mediterranean grass,X,43510,7380,58384
 Schoenoplectus acutus var. occidentalis,common tule,N,79929,9602,59209
 Schoenoplectus americanus,Olney's three-square bulrush,N,80328,9603,59066
 Schoenoplectus californicus,California bulrush,N,43573,9604,47159
@@ -1526,7 +1526,7 @@ Silene laciniata subsp. californica,,N,82538,11084,62222
 Silene verecunda,,N,44589,7617,60581
 Silybum marianum,milk-thistle,X,4918,7622,52586
 Sinapis arvensis,charlock,X,44609,7625,53264
-Sisymbrium irio,london rocket,X,44651,7628,58085
+Sisymbrium irio,London rocket,X,44651,7628,58085
 Sisymbrium officinale,hedge mustard,X,44653,7630,53266
 Sisymbrium orientale,,X,44654,7631,58086
 Sisyrinchium bellum,blue-eyed-grass,N,44682,7632,49918
