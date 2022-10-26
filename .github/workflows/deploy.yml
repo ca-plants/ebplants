@@ -23,10 +23,7 @@ jobs:
         with:
           ruby-version: '3'
           bundler-cache: true
-      #- run: bundle init
-      #- run: bundle config path vendor/bundle
-      #- run: bundle add jekyll
-      - run: bundle exec jekyll build --source "./output" --baseurl "/ebplants"
+      - run: bundle exec jekyll build --source "./output" --baseurl ""
 
       - uses: actions/upload-pages-artifact@v1
   deploy:
