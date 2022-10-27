@@ -1,4 +1,5 @@
 _site/
+external_data/
 node_modules/
 output/
 /*.cmd
