@@ -105,7 +105,7 @@ Anthriscus caucalis,bur-chervil,X,13523,396,52846
 Antirrhinum kelloggii,,N,13568,401,64562
 Antirrhinum majus,snapdragon,X,13557,404,48969
 Antirrhinum thompsonii,Sierra snapdragon,N,108978,14286,168306
-Antirrhinum vexillocalyculatum subsp. vexillocalyculatum,,N,88873,10499,79582
+Antirrhinum vexillocalyculatum subsp. vexillocalyculatum,,N,88873,10499,840919
 Aphanes occidentalis,,N,13608,420,64548
 Aphyllon californicum subsp. jepsonii,,N,103325,13438,802459
 Aphyllon fasciculatum,clustered broom-rape,N,100018,13441,802543
@@ -1583,11 +1583,11 @@ Stenotaphrum secundatum,St. Augustine grass,X,45599,7783,79210
 Stephanomeria elata,,N,5147,7790,62565
 Stephanomeria exigua subsp. coronaria,,N,6222,7793,58041
 Stephanomeria virgata subsp. pleurocarpa,,N,6227,7806,58849
-Stipa cernua,nodding needlegrass,N,45640,12042,79225
-Stipa lemmonii var. lemmonii,Lemmon's needlegrass,N,73899,12053,81393
-Stipa lepida,foothill needlegrass,N,45641,12054,79236
-Stipa miliacea var. miliacea,smilo grass,X,91920,12058,81395
-Stipa pulchra,purple needlegrass,N,45644,12067,79246
+Stipa cernua,nodding needlegrass,N,45640,12042,165654
+Stipa lemmonii var. lemmonii,Lemmon's needlegrass,N,73899,12053,1220756
+Stipa lepida,foothill needlegrass,N,45641,12054,165656
+Stipa miliacea var. miliacea,smilo grass,X,91920,12058,524183
+Stipa pulchra,purple needlegrass,N,45644,12067,165659
 Streptanthus breweri,,N,45725,7822,79258
 Streptanthus glandulosus subsp. glandulosus,jewelflower,N,53142,7837,58783
 Streptanthus hispidus,Mt. Diablo jewelflower,N,45741,7842,50620,1B.3
@@ -1602,7 +1602,7 @@ Symphyotrichum chilense,Pacific aster,N,80313,10402,56861
 Symphyotrichum lanceolatum var. hesperium,,N,80306,11093,81407
 Symphyotrichum lentum,Suisun Marsh aster,N,80304,9490,60130,1B.2
 Symphyotrichum spathulatum,,N,80300,10409,79302
-Symphyotrichum subulatum var. parviflorum,,N,81976,11094,81412
+Symphyotrichum subulatum var. parviflorum,,N,81976,11094,169461
 Tamarix parviflora,smallflower tamarisk,X,46074,7916,56011
 Tamarix ramosissima,saltcedar,X,46076,7917,56015
 Tanacetum parthenium,feverfew,X,5215,7919,54520
@@ -1689,7 +1689,7 @@ Ulmus minor,English elm,X,47478,8180,79461
 Umbellularia californica,California bay,N,47489,8183,48807
 Uropappus lindleyi,silver puffs,N,76212,8184,50806
 Urospermum picroides,false hawkbit,X,5477,8185,59361
-Urtica dioica subsp. holosericea,hoary nettle,N,53303,8187,53331
+Urtica dioica subsp. holosericea,hoary nettle,N,53303,8187,141851
 Urtica urens,dwarf nettle,X,47589,8188,53315
 Vaccinium ovatum,"California huckleberry,evergreen huckleberry",N,47685,8200,48349
 Vancouveria planipetala,inside-out flower,N,47786,8215,63938
@@ -1713,7 +1713,7 @@ Vicia benghalensis,purple vetch,X,48060,8261,53333
 Vicia disperma,,X,48066,8263,79502
 Vicia gigantea,giant vetch,N,48092,8265,53322
 Vicia hassei,slender vetch,N,48071,8266,57313
-Vicia sativa subsp. nigra,common vetch,X,53355,8272,53325
+Vicia sativa subsp. nigra,common vetch,X,53355,8272,710103
 Vicia sativa subsp. sativa,spring vetch,X,53356,8273,53334
 Vicia villosa subsp. varia,winter vetch,X,53358,8275,57316
 Vicia villosa subsp. villosa,hairy vetch,X,53359,8276,57315
