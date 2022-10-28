@@ -1,7 +1,82 @@
 {
+    "Atriplex cordulata var. cordulata": {
+        "rpi": {
+            "notingeo": true
+        }
+    },
+    "Castilleja ambigua var. ambigua": {
+        "rpi": {
+            "translation": "Castilleja ambigua subsp. ambigua"
+        }
+    },
+    "Cryptantha hooveri": {
+        "rpi": {
+            "extirpated": "1A (extirpated) in CNPS Rare Plant Inventory."
+        }
+    },
+    "Erythranthe laciniata": {
+        "rpi": {
+            "notingeo": "Marked as extirpated in the CNPS-EB database."
+        }
+    },
+    "Erysimum capitatum var. angustatum": {
+        "rpi": {
+            "nojepson": true
+        }
+    },
+    "Gilia millefoliata": {
+        "rpi": {
+            "notingeo": "Only evidence is a couple very old vouchers."
+        }
+    },
+    "Juglans californica": {
+        "rpi": {
+            "notingeo": true
+        }
+    },
+    "Lilium rubescens": {
+        "rpi": {
+            "notingeo": true
+        }
+    },
+    "Limosella australis": {
+        "rpi": {
+            "non-native": true
+        }
+    },
     "Lupinus albifrons var. abramsii": {
         "rpi": {
-            "notingeo": "The only evidence for this is one Calflora record, which is marked as ID Uncertain in the CNPS-EB database"
+            "notingeo": "The only evidence for this is one Calflora record, which is marked as ID Uncertain in the CNPS-EB database."
+        }
+    },
+    "Monardella antonina subsp. antonina": {
+        "rpi": {
+            "nojepson": true
+        }
+    },
+    "Myosurus minimus subsp. apus": {
+        "rpi": {
+            "nojepson": true
+        }
+    },
+    "Plagiobothrys glaber": {
+        "rpi": {
+            "extirpated": "1A (extirpated) in CNPS Rare Plant Inventory."
+        }
+    },
+    "Polygonum marinense": {
+        "rpi": {
+            "notingeo": "Only evidence is one Calflora record from 1863."
+        }
+    },
+    "Scutellaria galericulata": {
+        "rpi": {
+            "notingeo": "Marked as extirpated in the CNPS-EB database."
+        }
+    },
+    "Streptanthus albidus subsp. peramoenus": {
+        "rpi": {
+            "nojepson": true
         }
     },
     "Stuckenia filiformis subsp. alpina": {

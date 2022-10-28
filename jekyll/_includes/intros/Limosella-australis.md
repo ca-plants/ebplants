@@ -1,0 +1,1 @@
+Listed in the [CNPS Rare Plant Inventory](https://rareplants.cnps.org/Plants/Details/1715) as rank 2B.1, but listed as naturalized in the Jepson eFlora. The Rare Plant Inventory notes that "Native status in CA is inconclusive; definitive study needed".
