@@ -1,4 +1,4 @@
-taxon,common name,status,jepson id,calrecnum,inat id,CRPR
+taxon,common name,status,jepson id,calrecnum,inat id,CRPR,CESA
 Abronia latifolia,yellow sand verbena,N,11552,13,52618
 Abronia umbellata var. umbellata,beach sand verbena,N,75287,10748,53800
 Abutilon theophrasti,velvet-leaf,X,11605,26,60214
@@ -39,7 +39,7 @@ Agoseris apargioides var. apargioides,,N,6310,122,58797
 Agoseris grandiflora var. grandiflora,,N,79217,10490,80331
 Agoseris heterophylla,,N,794,132,56856
 Agoseris retrorsa,,N,797,133,57908
-Agrostis avenacea,,X,12268,138,60273
+Agrostis avenacea,blown grass,X,12268,138,288066
 Agrostis capillaris,colonial bent,X,12276,140,75312
 Agrostis exarata,spike redtop,N,12284,143,59088
 Agrostis hallii,,N,12290,146,57155
@@ -86,8 +86,8 @@ Amelanchier utahensis,service-berry,N,13008,304,61099
 Ammannia coccinea,,N,13031,306,60210
 Amsinckia douglasiana,,N,13126,321,58047
 Amsinckia eastwoodiae,,N,13127,322,75422
-Amsinckia grandiflora,large-fld fiddleneck,N,13130,323,75424,1B.1
-Amsinckia intermedia,fiddleneck,N,13131,11324,59458
+Amsinckia grandiflora,large-flowered fiddleneck,N,13130,323,75424,1B.1,CE
+Amsinckia intermedia,fiddleneck,N,13131,11324,49141
 Amsinckia lunaris,bent-flower fiddleneck,N,13139,324,75425,1B.2
 Amsinckia lycopsoides,,N,13140,325,58048
 Amsinckia menziesii,rancher's fireweed,N,13145,326,55436
@@ -132,7 +132,7 @@ Arctostaphylos glandulosa subsp. glandulosa,Eastwood manzanita,N,49170,552,53354
 Arctostaphylos glauca,greatberry manzanita,N,13926,556,55133
 Arctostaphylos manzanita subsp. laevigata,Contra Costa manzanita,N,49185,574,61922,1B.2
 Arctostaphylos manzanita subsp. manzanita,,N,49186,575,55136
-Arctostaphylos pallida,pallid manzanita,N,13962,594,53355,1B.1
+Arctostaphylos pallida,pallid manzanita,N,13962,594,53355,1B.1,CE
 Argemone munita,prickly poppy,N,14117,657,58950
 Argyranthemum foeniculaceum,,X,77423,658,75554
 Aristida oligantha,oldfield three-awn,N,14193,664,75562
@@ -364,8 +364,8 @@ Chlorogalum pomeridianum var. minus,dwarf soaproot,N,56470,2005,80562,1B.2
 Chlorogalum pomeridianum var. pomeridianum,"soap plant,amole",N,56471,2006,59082
 Chloropyron maritimum subsp. palustre,Pt. Reyes bird's-beak,N,93766,11259,79707,1B.2
 Chloropyron molle subsp. hispidum,hispid bird's-beak,N,93770,11260,79708,1B.1
-Chloropyron molle subsp. molle,soft bird's-beak,N,93771,11261,79709,1B.2
-Chloropyron palmatum,palmate bird's-beak,N,93768,11256,76298,1B.1
+Chloropyron molle subsp. molle,soft bird's-beak,N,93771,11261,79709,1B.2,CR
+Chloropyron palmatum,palmate bird's-beak,N,93768,11256,76298,1B.1,CE
 Chorizanthe cuspidata var. cuspidata,San Francisco spineflower,N,56484,2025,80569,1B.2
 Chorizanthe membranacea,pink spineflower,N,19342,2034,58260
 Chorizanthe polygonoides var. polygonoides,knotweed spineflower,N,56497,2043,64181
@@ -393,7 +393,7 @@ Clarkia biloba subsp. biloba,twolobe clarkia,N,49891,2168,51857
 Clarkia breweri,Brewer's clarkia,N,19571,2174,56067,4.2
 Clarkia concinna subsp. automixa,Santa Clara red ribbons,N,49895,2176,51856,4.3
 Clarkia concinna subsp. concinna,red ribbons,N,49896,2177,51855
-Clarkia franciscana,Presidio clarkia,N,19579,2187,61899,1B.1
+Clarkia franciscana,Presidio clarkia,N,19579,2187,61899,1B.1,CE
 Clarkia gracilis subsp. gracilis,slender clarkia,N,49901,2190,61896
 Clarkia modesta,,N,19588,2200,58946
 Clarkia purpurea subsp. purpurea,purple clarkia,N,49906,2207,79741
@@ -428,7 +428,7 @@ Convolvulus arvensis,bindweed,X,20203,2321,53021
 Convolvulus simulans,,N,20208,2322,76433,4.2
 Corallorhiza maculata var. maculata,spotted coralroot,N,75479,11545,80614
 Corallorhiza striata,striped coralroot,N,20264,2331,50708
-Cordylanthus nidularius,Mt. Diablo bird's-beak,N,20318,2347,76440,1B.1
+Cordylanthus nidularius,Mt. Diablo bird's-beak,N,20318,2347,76440,1B.1,CR
 Cordylanthus pilosus subsp. pilosus,,N,49973,2352,57275
 Cordylanthus rigidus subsp. rigidus,,N,49981,2359,59014
 Cordyline australis,cabbage tree,X,80712,9076,50191
@@ -504,7 +504,7 @@ Datura stramonium,jimson weed,X,22387,2621,55854
 Datura wrightii,,N,22389,2622,58331
 Daucus carota,Queen Anne's lace,X,22394,2623,76610
 Daucus pusillus,,N,22395,2624,56726
-Deinandra bacigalupii,Livermore moonshine,N,77607,9090,58817,1B.1
+Deinandra bacigalupii,Livermore moonshine,N,77607,9090,58817,1B.1,CE
 Deinandra corymbosa,,N,77598,9855,60956
 Deinandra kelloggii,,N,79196,10829,76615
 Deinandra lobbii,,N,77606,10830,58813
@@ -623,7 +623,7 @@ Eragrostis pectinacea var. pectinacea,Carolina lovegrass,N,58372,3040,80700
 Eremalche parryi subsp. parryi,,N,50324,3049,58936
 Eremothera boothii subsp. decorticans,shredding evening-primrose,N,89263,11654,79836
 Eriastrum abramsii,,N,24587,3052,57203
-Eriastrum ertterae,,N,99214,13079,473592,1B.1
+Eriastrum ertterae,,N,99214,13079,473592,1B.1,CC
 Eriastrum pluriflorum,many-flowered eriastrum,N,24595,3065,58239
 Ericameria arborescens,golden-fleece,N,2583,3071,63924
 Ericameria linearifolia,interior goldenbush,N,2598,3085,57971
@@ -668,8 +668,9 @@ Eryngium armatum,,N,25071,3461,60950
 Eryngium articulatum,,N,25073,3462,60119
 Eryngium castrense,,N,25076,3463,77061
 Eryngium jepsonii,,N,78144,11674,77062,1B.2
-Eryngium racemosum,,N,25097,3467,77066,1B.1
+Eryngium racemosum,,N,25097,3467,77066,1B.1,CE
 Eryngium spinosepalum,,N,25099,3468,57894,1B.2
+Erysimum capitatum var. angustatum,Contra Costa wallflower,N,,9942,119564,1B.1,CE
 Erysimum capitatum var. capitatum,western wallflower,N,58866,9943,50627
 Erythranthe androsacea,,N,99088,13487,771845
 Erythranthe cardinalis,,N,25147,13490,319974
@@ -823,7 +824,7 @@ Hoita strobilina,,N,28328,4200,77426,1B.1
 Holcus lanatus,velvet grass,X,28335,4201,52793
 Holcus mollis,creeping velvet grass,X,28336,4202,77427
 Holocarpha heermannii,Heermann's tarweed,N,3557,4204,62568
-Holocarpha macradenia,Santa Cruz tarplant,N,3558,4205,62573,1B.1
+Holocarpha macradenia,Santa Cruz tarplant,N,3558,4205,62573,1B.1,CE
 Holocarpha obconica,,N,3559,4206,62571
 Holocarpha virgata subsp. virgata,,N,6108,4210,53102
 Holodiscus discolor,"cream bush,oceanspray",N,28344,4211,53414
@@ -966,7 +967,7 @@ Lessingia tenuis,spring lessingia,N,3778,4756,58025,4.3
 Lewisia rediviva var. rediviva,bitterroot,N,60818,10066,81025
 Ligusticum apiifolium,,N,30890,4794,59298
 Ligustrum lucidum,Chinese privet,X,30906,8656,77740
-Lilaeopsis masonii,Mason's lilaeopsis,N,30919,4798,60122,1B.1
+Lilaeopsis masonii,Mason's lilaeopsis,N,30919,4798,60122,1B.1,CR
 Lilium pardalinum subsp. pardalinum,leopard lily,N,51254,4810,61829
 Limnanthes douglasii subsp. douglasii,meadowfoam,N,51259,4826,51341
 Limnanthes douglasii subsp. nivea,meadowfoam,N,51260,4827,51342
@@ -1162,7 +1163,7 @@ Oemleria cerasiformis,oso berrry,N,34900,5879,53419
 Oenanthe sarmentosa,,N,34904,5881,60127
 Oenothera biennis,common evening-primrose,X,34975,5882,62207
 Oenothera deltoides subsp. cognata,,N,51746,5891,80072
-Oenothera deltoides subsp. howellii,Antioch Dunes evening-primrose,N,51748,5893,80074,1B.1
+Oenothera deltoides subsp. howellii,Antioch Dunes evening-primrose,N,51748,5893,80074,1B.1,CE
 Oenothera elata subsp. hookeri,evening primrose,N,51752,5897,51814
 Oenothera glazioviana,,X,35004,5899,62208
 Oenothera laciniata,,X,35016,5900,78243
@@ -1268,7 +1269,7 @@ Plagiobothrys arizonicus,,N,38485,6551,58063
 Plagiobothrys bracteatus,,N,38487,6553,57719
 Plagiobothrys canescens,,N,38488,6554,58064
 Plagiobothrys chorisianus var. chorisianus,,N,63885,6557,57715,1B.2
-Plagiobothrys diffusus,,N,38493,6565,78597,1B.1
+Plagiobothrys diffusus,,N,38493,6565,78597,1B.1,CE
 Plagiobothrys fulvus var. campestris,,N,63892,6568,81256
 Plagiobothrys greenei,,N,38501,6574,57716
 Plagiobothrys humistratus,,N,38504,6577,60152
@@ -1479,8 +1480,8 @@ Sanicula bipinnata,poison sanicle,N,43165,7331,57626
 Sanicula bipinnatifida,purple sanicle,N,43166,7332,56840
 Sanicula crassicaulis,Pacific sanicle,N,43169,7333,53201
 Sanicula laciniata,,N,43175,7336,56841
-Sanicula maritima,adobe sanicle,N,43177,7337,57625,1B.1
-Sanicula saxatilis,rock sanicle,N,43186,7339,57783,1B.2
+Sanicula maritima,adobe sanicle,N,43177,7337,57625,1B.1,CR
+Sanicula saxatilis,rock sanicle,N,43186,7339,57783,1B.2,CR
 Sanicula tuberosa,,N,43190,7341,56842
 Scabiosa atropurpurea,pincushion flower,X,43445,7374,78988
 Scandix pecten-veneris,Venus' needle,X,43465,7376,56843
