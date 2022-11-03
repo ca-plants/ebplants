@@ -192,7 +192,7 @@ Barbarea orthoceras,winter cress,N,15481,1057,52976
 Bassia hyssopifolia,,X,15511,1060,58125
 Bellardia trixago,,X,15566,1064,51286
 Bellis perennis,English daisy,X,1652,1065,55563
-Berberis aquifolium var. aquifolium,,N,71483,1068,80474
+Berberis aquifolium var. aquifolium,,N,71483,1068,126887
 Berberis aquifolium var. dictyota,,N,76967,1069,775436
 Berberis nervosa,Oregon grape,N,15594,1073,75756
 Berberis pinnata subsp. pinnata,California barberry,N,70025,1077,58851
@@ -357,7 +357,7 @@ Chenopodium album,lamb's quarters,X,19131,1962,58127
 Chenopodium berlandieri,pitseed goosefoot,N,19144,1966,58879
 Chenopodium californicum,California pigweed,N,19155,1968,878230
 Chenopodium macrospermum,coast goosefoot,X,19179,9069,76280
-Chenopodium murale,sowbane,X,19182,1983,61811
+Chenopodium murale,sowbane,X,19182,1983,514012
 Chenopodium rubrum,red goosefoot,N,19200,1988,931679
 Chenopodium vulvaria,stinking goosefoot,X,19212,1991,76288
 Chlorogalum pomeridianum var. minus,dwarf soaproot,N,56470,2005,80562,1B.2
@@ -550,7 +550,7 @@ Downingia bella,,N,23273,2766,60160
 Downingia cuspidata,,N,101864,2773,60163
 Downingia insignis,,N,23278,2776,60164
 Downingia pulchella,,N,23282,2782,60167
-Draba cuneifolia,,N,23332,2798,76696
+Draba cuneifolia,,N,23332,2798,1138678
 Draba verna,spring whitlow-grass,X,23442,2816,55823
 Drymocallis glandulosa var. wrangelliana,sticky cinquefoil,N,82064,11612,80681
 Dryopteris arguta,coastal wood fern,N,23524,2823,52671
@@ -618,7 +618,7 @@ Equisetum telmateia subsp. braunii,giant horsetail,N,50317,3026,57032
 Eragrostis cilianensis,stink grass,X,24456,3029,76849
 Eragrostis curvula,weeping lovegrass,X,24463,9905,76850
 Eragrostis hypnoides,creeping lovegrass,N,24480,3031,76851
-Eragrostis mexicana subsp. virescens,Chilean lovegrass,N,50320,3036,79831
+Eragrostis mexicana subsp. virescens,Chilean lovegrass,N,50320,3036,1421995
 Eragrostis pectinacea var. pectinacea,Carolina lovegrass,N,58372,3040,80700
 Eremalche parryi subsp. parryi,,N,50324,3049,58936
 Eremothera boothii subsp. decorticans,shredding evening-primrose,N,89263,11654,79836
@@ -794,7 +794,7 @@ Helminthotheca echioides,bristly ox-tongue,X,81752,10921,61906
 Hemizonia congesta subsp. lutescens,,N,80179,10922,61173
 Hemizonia congesta subsp. luzulifolia,,N,102005,4070,56956
 Heracleum maximum,cow parsnip,N,27996,9546,53094
-Herniaria hirsuta var. cinerea,rupturewort,X,81545,10923,58104
+Herniaria hirsuta var. cinerea,rupturewort,X,81545,10923,932806
 Hesperevax acaulis var. ambusticola,fire evax,N,59934,4108,80930
 Hesperevax caulescens,hogwallow starfish,N,28021,4110,60135,4.2
 Hesperevax sparsiflora var. sparsiflora,,N,59937,4113,61172
@@ -870,11 +870,11 @@ Juncus acuminatus,tapered rush,N,29592,4432,77549
 Juncus ambiguus,frog rush,X,29601,4434,436606
 Juncus articulatus subsp. articulatus,jointed rush,N,91767,11773,79958
 Juncus balticus subsp. ater,wire rush,N,81588,11774,79959
-Juncus bufonius var. bufonius,toad rush,N,60331,4442,57105
+Juncus bufonius var. bufonius,toad rush,N,60331,4442,57107
 Juncus capitatus,dwarf rush,X,29625,4446,60261
 Juncus effusus subsp. pacificus,Pacific rush,N,79529,11776,57108
 Juncus elliottii,,X,29650,13531,164261
-Juncus gerardi subsp. gerardi,mud rush,X,91768,13235,79965
+Juncus gerardi subsp. gerardi,mud rush,X,91768,13235,320881
 Juncus lescurii,San Francisco rush,N,29675,10615,164270
 Juncus mexicanus,Mexican rush,N,29687,4481,58348
 Juncus occidentalis,western rush,N,76520,4484,61826
@@ -1104,7 +1104,7 @@ Microsteris gracilis,,N,33480,10117,61210
 Mimetanthe pilosa,,N,33500,13513,165392
 Minuartia californica,California sandwort,N,33742,5568,836856
 Minuartia douglasii,Douglas sandwort,N,33747,5570,836863
-Minuartia pusilla,least sandwort,N,33767,5577,78074
+Minuartia pusilla,least sandwort,N,33767,5577,836888
 Mirabilis laevis var. crassifolia,California four O'clock,N,80351,10131,81126
 Modiola caroliniana,,X,33863,5603,78087
 Moehringia macrophylla,large-leaved sandwort,N,33866,5604,61884
@@ -1178,7 +1178,7 @@ Oxalis oregana,redwood sorrel,N,35641,6015,47757
 Oxalis pes-caprae,Bermuda-buttercup,X,35642,6016,53169
 Oxalis pilosa,hairy wood sorrel,N,35601,11895,78300
 Packera breweri,Brewer groundsel,N,77383,9613,56983
-Panicum acuminatum,Pacific panic grass,N,35923,6044,78335
+Panicum acuminatum,Pacific panic grass,N,35923,6044,128949
 Panicum capillare,witchgrass,N,36094,6048,78337
 Panicum dichotomiflorum,smooth witchgrass,X,36098,6049,78338
 Panicum repens,torpedo grass,X,36145,8687,166096
