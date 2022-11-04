@@ -4,5 +4,6 @@
     },
     "dependencies": {
         "@ca-plant-list/ca-plant-list": "^0.1.0"
-    }
+    },
+    "type": "module"
 }
