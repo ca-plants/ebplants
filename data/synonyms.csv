@@ -29,9 +29,11 @@ Blitum nuttallianum,Monolepis nuttalliana,INAT
 Bromus carinatus var. marginatus,Bromus sitchensis var. marginatus
 Bromus carinatus var. maritimus,Bromus sitchensis var. maritimus
 Bromus carinatus,Bromus sitchensis var. carinatus,INAT
-Bromus sitchensis var. marginatus,Bromus sitchensis,INAT
+Bromus maritimus,Bromus sitchensis var. maritimus,INAT
+Bromus marginatus,Bromus sitchensis var. marginatus,INAT
 Calibrachoa parviflora,Petunia parviflora,INAT
 Calochortus clavatus subsp. pallidus,Calochortus clavatus var. pallidus
+Castilleja martini var. martini,Castilleja applegatei subsp. martinii,INAT
 Catapodium rigidum,Desmazeria rigida,INAT
 Cenchrus clandestinus,Pennisetum clandestinum,INAT
 Cenchrus longisetus,Pennisetum villosum,INAT
@@ -138,6 +140,7 @@ Orobanche uniflora,Aphyllon purpureum
 Orobanche vallicola,Aphyllon vallicolum
 Ottleya strigosa,Acmispon strigosus,INAT
 Oxybasis rubra,Chenopodium rubrum,INAT
+Pectocarya pusilla,Gruvelia pusilla,INAT
 Phacelia imbricata subsp. imbricata,Phacelia imbricata var. imbricata
 Phacelia nemoralis subsp. nemoralis,Phacelia nemoralis var. nemoralis
 Phoradendron macrophyllum,Phoradendron leucarpum subsp. macrophyllum,INAT
@@ -163,7 +166,8 @@ Sabulina douglasii,Minuartia douglasii,INAT
 Sabulina pusilla,Minuartia pusilla,INAT
 Sairocarpus multiflorus,Antirrhinum thompsonii,INAT
 Sairocarpus vexillocalyculatus subsp. vexillocalyculatus,Antirrhinum vexillocalyculatum subsp. vexillocalyculatum,INAT
-Sambucus cerulea,Sambucus nigra subsp. caerulea,INAT
+Sambucus cerulea,Sambucus mexicana,INAT
+Sambucus nigra subsp. caerulea,Sambucus mexicana
 Sanguisorba minor,Poterium sanguisorba,INAT
 Sesuvium humifusum,Cypselea humifusa,INAT
 Silene coronaria,Lychnis coronaria,INAT
@@ -184,4 +188,5 @@ Thinopyrum obtusiflorum,Elymus ponticus,INAT
 Thysanocarpus laciniatus var. laciniatus,Thysanocarpus laciniatus
 Tomostima cuneifolia,Draba cuneifolia,INAT
 Trientalis latifolia,Lysimachia latifolia
+Trifolium olivaceum,Trifolium columbinum,INAT
 Urtica gracilis subsp. holosericea,Urtica dioica subsp. holosericea,INAT

@@ -1,6 +1,6 @@
 import { Tools } from "@ca-plant-list/tools/Tools";
-import { DataLoader } from "@ca-plant-list/ca-plant-list/DataLoader";
-import { Taxa } from "@ca-plant-list/ca-plant-list/Taxa";
+import { DataLoader } from "@ca-plant-list/ca-plant-list";
+import { Taxa } from "@ca-plant-list/ca-plant-list";
 
 const options = Tools.getCommandLineOptions( DataLoader.getOptionDefs() );
 
