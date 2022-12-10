@@ -414,7 +414,7 @@ Clinopodium douglasii,yerba buena,N,80483,11541,53203
 Clintonia andrewsiana,,N,19850,2265,51647
 Collinsia bartsiifolia var. bartsiifolia,,N,56710,2272,80607
 Collinsia bartsiifolia var. davidsonii,,N,56711,2273,58330
-Collinsia heterophylla,Chinese houses,N,19994,47325,47325
+Collinsia heterophylla,Chinese houses,N,19994,2280,47325
 Collinsia parviflora,blue-eyed mary,N,20000,2285,59013
 Collinsia sparsiflora var. collina,,N,56722,2290,57290
 Collinsia sparsiflora var. sparsiflora,,N,56723,2291,64295
@@ -552,7 +552,7 @@ Draba cuneifolia,,N,23332,2798,1138678
 Draba verna,spring whitlow-grass,X,23442,2816,55823
 Drymocallis glandulosa var. wrangelliana,sticky cinquefoil,N,82064,11612,80681
 Dryopteris arguta,coastal wood fern,N,23524,2823,52671
-Duchesnea indica,mock-strawberry,X,23633,2826,243824
+Duchesnea indica var. indica,mock-strawberry,X,91747,11621,243824
 Dudleya cymosa subsp. cymosa,,N,50235,2845,64259
 Dudleya cymosa subsp. paniculata,,N,50239,2848,61796
 Dudleya farinosa,,N,23655,2852,51889
@@ -562,7 +562,6 @@ Dysphania multifida,cut leaf pigweed,X,81841,10848,76750
 Eastwoodia elegans,yellow mock aster,N,2510,2875,57967
 Echinochloa colona,,X,23790,2881,76755
 Echinochloa crus-galli,barnyard grass,X,23791,2882,60283
-Echinochloa crus-pavonis,,X,23793,2883,76756
 Echinochloa muricata var. microstachya,,NC,58092,9886,80690
 Echinodorus berteroi,burhead,N,23812,2886,76761
 Echium candicans,Pride of Madeira,X,77286,2888,57723
@@ -787,7 +786,7 @@ Helianthella castanea,Diablo helianthella,N,3232,4036,64250,238,1B.2
 Helianthus annuus,sunflower,N,3244,4040,57983
 Helianthus californicus,California sunflower,N,3254,4042,56954
 Helianthus gracilentus,,N,3280,4047,77356
-Heliotropium curassavicum,heliotrope,N,27913,4060,58058
+Heliotropium curassavicum var. oculatum,heliotrope,N,59914,11723,58058
 Helminthotheca echioides,bristly ox-tongue,X,81752,10921,61906
 Hemizonia congesta subsp. lutescens,,N,80179,10922,61173
 Hemizonia congesta subsp. luzulifolia,,N,102005,4070,56956
@@ -846,7 +845,7 @@ Hydrocotyle ranunculoides,,N,28607,4281,60951
 Hydrocotyle verticillata,,N,28611,4284,60121
 Hydrophyllum occidentale,western waterleaf,N,28634,4287,77471
 Hypericum androsaemum,,X,77418,8601,77480
-Hypericum perforatum,Klamath weed,X,28793,4312,56077
+Hypericum perforatum subsp. perforatum,Klamath weed,X,91766,11762,56077
 Hypericum scouleri,St. John's wort,N,28801,11763,77484
 Hypochaeris glabra,smooth cat's ear,X,3623,4313,53103
 Hypochaeris radicata,rough cat's ear,X,3625,4314,53104
@@ -1130,7 +1129,7 @@ Myriophyllum verticillatum,,N,34279,5739,78158
 Myriopteris covillei,Coville's lip fern,N,99420,13123,481701
 Myriopteris gracillima,lace lip fern,N,99422,13125,472796
 Myriopteris intertexta,coastal lip fern,N,99423,13126,481710
-Najas guadalupensis,common water-nymph,N,34354,5743,78163
+Najas guadalupensis subsp. guadalupensis,common water-nymph,N,80549,10142,78163
 Najas marina,holly-leaved water-nymph,N,34357,5744,78164
 Narcissus pseudonarcissus,daffodil,X,34403,8637,55848
 Narcissus tazetta,daffodil,X,34404,8638,56027
@@ -1178,7 +1177,6 @@ Oxalis pilosa,hairy wood sorrel,N,35601,11895,78300
 Packera breweri,Brewer groundsel,N,77383,9613,56983
 Panicum acuminatum,Pacific panic grass,N,35923,6044,128949
 Panicum capillare,witchgrass,N,36094,6048,78337
-Panicum dichotomiflorum,smooth witchgrass,X,36098,6049,78338
 Papaver californicum,fire poppy,N,36204,6056,58958
 Papaver heterophyllum,wind poppy,N,86377,11905,78344
 Parapholis incurva,sickle grass,X,36243,6059,60294
@@ -1202,7 +1200,7 @@ Penstemon heterophyllus var. heterophyllus,chaparral penstemon,N,75906,6178,5185
 Penstemon heterophyllus var. purdyi,foothill penstemon,N,76773,6179,81205
 Pentachaeta alsinoides,tiny pygmy daisy,N,4273,6225,58844
 Pentachaeta exilis subsp. exilis,meager pygmy daisy,N,6171,6230,58846
-Pentagramma triangularis,goldback fern,N,77119,6237,52676
+Pentagramma triangularis,goldback fern,N,77119,6234,52676
 Perideridia californica,California yampah,N,37248,6245,58794
 Perideridia kelloggii,Kellog's yampah,N,37253,6250,56838
 Perideridia oregana,Oregon yampah,N,37256,6253,78438
@@ -1488,7 +1486,6 @@ Schoenoplectus americanus,Olney's three-square bulrush,N,80328,9603,59066
 Schoenoplectus californicus,California bulrush,N,43573,9604,47159
 Schoenoplectus pungens var. longispicatus,common threesquare,N,81092,9222,81362
 Scirpus microcarpus,,N,43718,7398,59068
-Scleranthus annuus,German knotgrass,X,43754,10361,61935
 Scolymus hispanicus,golden thistle,X,4661,7417,79009
 Scribneria bolanderi,,N,43846,7420,57196
 Scrophularia californica,California figwort,N,43849,7422,50812
