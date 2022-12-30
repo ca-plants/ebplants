@@ -14,12 +14,26 @@
             "extirpated": "1A (extirpated) in CNPS Rare Plant Inventory."
         }
     },
+    "Cryptantha juniperensis": {
+        "jepson": {
+            "notinnameindex": "Not in index as of 2022-12-30."
+        }
+    },
+    "Cyperus niger": {
+        "jepson": {
+            "notinnameindex": "Cyperus niger var. capitatus appears to be listed instead."
+        }
+    },
     "Erythranthe laciniata": {
         "rpi": {
             "notingeo": "Marked as extirpated in the CNPS-EB database."
         }
     },
     "Erysimum capitatum var. angustatum": {
+        "jepson": {
+            "allowsynonym": true,
+            "badjepsonid": true
+        },
         "rpi": {
             "nojepson": true
         }
