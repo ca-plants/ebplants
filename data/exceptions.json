@@ -78,6 +78,11 @@
             "extirpated": "1A (extirpated) in CNPS Rare Plant Inventory."
         }
     },
+    "Rhinotropis californica": {
+        "jepson": {
+            "notinnameindex": "Name change in rev. 11; not in index as of 2022-12-30."
+        }
+    },
     "Polygonum marinense": {
         "rpi": {
             "notingeo": "Only evidence is one Calflora record from 1863."
