@@ -1,0 +1,1 @@
+This subspecies is not currently recognized in the Jepson eFlora (it is considered a synonym for *Streptanthus glandulosus* subsp. *glandulosus*). It is included on this website because it is listed in the CNPS Rare Plant Inventory.

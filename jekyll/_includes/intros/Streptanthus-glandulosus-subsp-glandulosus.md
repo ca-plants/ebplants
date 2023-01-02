@@ -1,1 +1,0 @@
-*Streptanthus albidus* subsp. *peramoenus* is ranked 1B.2 in the CNPS [Rare Plant Inventory](https://rareplants.cnps.org/Plants/Details/1490), but the Jepson eFlora does not recognize this subspecies.

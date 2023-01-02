@@ -68,16 +68,6 @@
             "nojepson": true
         }
     },
-    "Myosurus minimus subsp. apus": {
-        "rpi": {
-            "nojepson": true
-        }
-    },
-    "Plagiobothrys glaber": {
-        "rpi": {
-            "extirpated": "1A (extirpated) in CNPS Rare Plant Inventory."
-        }
-    },
     "Rhinotropis californica": {
         "jepson": {
             "notinnameindex": "Name change in rev. 11; not in index as of 2022-12-30."
@@ -91,11 +81,6 @@
     "Scutellaria galericulata": {
         "rpi": {
             "notingeo": "Marked as extirpated in the CNPS-EB database."
-        }
-    },
-    "Streptanthus albidus subsp. peramoenus": {
-        "rpi": {
-            "nojepson": true
         }
     },
     "Stuckenia filiformis subsp. alpina": {

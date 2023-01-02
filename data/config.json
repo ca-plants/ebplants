@@ -1,10 +1,8 @@
 {
-    "calflora": {
-        "counties": [
-            "ALA",
-            "CCA"
-        ]
-    },
+    "counties": [
+        "ALA",
+        "CCA"
+    ],
     "inat": {
         "project": "ebcnps"
     },

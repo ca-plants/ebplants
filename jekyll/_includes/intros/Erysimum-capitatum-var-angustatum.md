@@ -1,1 +1,1 @@
-*Erysimum capitatum* var. *angustatum* is considered a synonym by Jepson eFlora, but has rank 1B.1 in the [CNPS Rare Plant Inventory](https://rareplants.cnps.org/Plants/Details/790).
+*Erysimum capitatum* var. *angustatum* is considered a synonym (for *Erysimum capitatum* var. *capitatum*) by Jepson eFlora, but is included on this website because it has rank 1B.1 in the [CNPS Rare Plant Inventory](https://rareplants.cnps.org/Plants/Details/790).

@@ -863,7 +863,7 @@ Isolepis carinata,,N,80405,9608,77515
 Isolepis cernua,,N,79218,9605,60257
 Iva axillaris,poverty weed,N,3654,10020,58837
 Jaumea carnosa,,N,3667,4424,60969
-Juglans hindsii,Northern California black walnut,N,29568,8943,54502
+Juglans californica,Southern California black walnut,N,29566,,,1704,4.2
 Juncus acuminatus,tapered rush,N,29592,4432,77549
 Juncus ambiguus,frog rush,X,29601,4434,436606
 Juncus articulatus subsp. articulatus,jointed rush,N,91767,11773,79958
@@ -1136,7 +1136,7 @@ Narcissus pseudonarcissus,daffodil,X,34403,8637,55848
 Narcissus tazetta,daffodil,X,34404,8638,56027
 Nasturtium officinale,water cress,N,34435,9597,78174
 Navarretia atractyloides,,N,34444,5768,58251
-Navarretia cotulifolia,,N,34446,5770,60224
+Navarretia cotulifolia,cotula navarretia,N,34446,5770,60224,1981,4.2
 Navarretia gowenii,Gowen's navarretia,N,88836,10741,78180,3324,1B.1
 Navarretia hamata subsp. parviloba,hooked navarretia,N,51666,5780,80048
 Navarretia heterandra,Tehama navarretia,N,34453,5781,78181,1162,4.3
@@ -1266,6 +1266,7 @@ Plagiobothrys canescens,,N,38488,6554,58064
 Plagiobothrys chorisianus var. chorisianus,,N,63885,6557,57715,1382,1B.2
 Plagiobothrys diffusus,,N,38493,6565,60985,1383,1B.1,CE
 Plagiobothrys fulvus var. campestris,,N,63892,6568,81256
+Plagiobothrys glaber,hairless popcornflower,N,38498,6569,,,1A
 Plagiobothrys greenei,,N,38501,6574,57716
 Plagiobothrys humistratus,,N,38504,6577,60152
 Plagiobothrys infectivus,,N,38506,6579,78602
@@ -1583,6 +1584,7 @@ Stipa lepida,foothill needlegrass,N,45641,12054,165656
 Stipa miliacea var. miliacea,smilo grass,X,91920,12058,524183
 Stipa pulchra,purple needlegrass,N,45644,12067,165659
 Streptanthus breweri,,N,45725,7822,79258
+Streptanthus albidus subsp. peramoenus,most beautiful jewelflower,N,,,,,1B.2
 Streptanthus glandulosus subsp. glandulosus,jewelflower,N,53142,7837,58783
 Streptanthus hispidus,Mt. Diablo jewelflower,N,45741,7842,50620,1502,1B.3
 Stuckenia pectinata,,N,80429,9596,64239
