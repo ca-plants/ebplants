@@ -1,0 +1,1 @@
+This subspecies is not currently recognized in the Jepson eFlora. It is included on this website because it is listed in the CNPS Rare Plant Inventory.

@@ -4,9 +4,9 @@
             "notingeo": true
         }
     },
-    "Castilleja ambigua subsp. ambigua": {
+    "Castilleja ambigua var. ambigua": {
         "rpi": {
-            "translate": "Castilleja ambigua var. ambigua"
+            "translation": "Castilleja ambigua subsp. ambigua"
         }
     },
     "Cryptantha hooveri": {
@@ -38,6 +38,11 @@
             "nojepson": true
         }
     },
+    "Erythranthe inconspicua": {
+        "rpi": {
+            "ingeo": "The CNPS East Bay Rare and Unusual Plants database shows active populations of this species."
+        }
+    },
     "Gilia millefoliata": {
         "rpi": {
             "notingeo": "Only evidence is a couple very old vouchers."
@@ -65,7 +70,12 @@
     },
     "Monardella antonina subsp. antonina": {
         "rpi": {
-            "nojepson": true
+            "notingeo": "RPI says 'Easily confused with M. villosa ssp. villosa, which may be the taxon occurring in ALA, CCA'"
+        }
+    },
+    "Navarretia cotulifolia": {
+        "rpi": {
+            "ingeo": "The CNPS East Bay Rare and Unusual Plants database shows active populations of this species."
         }
     },
     "Rhinotropis californica": {

@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ca-tools"
+		},
+		{
+			"path": "../../ca-plant-list"
+		}
+	],
+    "settings": {}
+}

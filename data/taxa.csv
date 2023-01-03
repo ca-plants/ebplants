@@ -84,7 +84,6 @@ Ambrosia chamissonis,beach-bur,N,812,292,71135
 Ambrosia psilostachya,western ragweed,N,12969,298,60129
 Amelanchier utahensis,service-berry,N,13008,304,61099
 Ammannia coccinea,,N,13031,306,60210
-Amsinckia douglasiana,,N,13126,321,58047
 Amsinckia eastwoodiae,,N,13127,322,75422
 Amsinckia grandiflora,large-flowered fiddleneck,N,13130,323,75424,4,1B.1,CE
 Amsinckia intermedia,fiddleneck,N,13131,11324,49141
@@ -181,7 +180,6 @@ Avena barbata,slender wild oat,X,15320,1017,52696
 Avena fatua,wild oat,X,15321,1018,52698
 Avena sterilis,,X,15325,1021,75722
 Azolla filiculoides,mosquito fern,N,15380,1026,58754
-Azolla microphylla,,N,80656,10786,75725
 Baccharis glutinosa,marsh baccharis,N,1607,11368,75727
 Baccharis pilularis subsp. consanguinea,coyote brush,N,5833,11369,79638
 Baccharis pilularis subsp. pilularis,,N,69898,11370,79639
@@ -280,7 +278,6 @@ Camissoniopsis intermedia,,N,89203,11455,75982
 Camissoniopsis micrantha,,N,89206,11458,75985
 Campanula exigua,chaparral harebell,N,16965,1461,1342787,265,1B.2
 Campanula griffinii,,N,16970,1462,1342789
-Campanula sharsmithiae,Sharsmith's harebell,N,16995,1467,1342786
 Capsella bursa-pastoris,shepherd's purse,X,17109,1472,56121
 Cardamine californica,"milkmaids,tooth wort",N,76456,1479,49651
 Cardamine hirsuta,,X,17158,1486,55829
@@ -467,7 +464,6 @@ Cryptantha micromeres,,N,21263,2476,770232
 Cryptantha microstachys,,N,21264,2477,57696
 Cryptantha muricata var. muricata,,N,57145,11573,80632
 Cryptantha nemaclada,,N,21271,2481,57705
-Cryptantha rattanii,"Rattan's cryptantha, gravel cryptantha",N,21286,2488,58853
 Cryptantha torreyana var. pumila,dwarf cryptantha,N,57161,11578,57697
 Cucurbita foetidissima,calabazilla,N,21361,2510,58138
 Cuscuta californica var. californica,,N,57184,2531,57026
@@ -643,7 +639,6 @@ Eriogonum inerme var. inerme,unarmed buckwheat,N,58586,9110,80799
 Eriogonum luteolum var. caninum,Tiburon buckwheat,N,58623,3297,61205,733,1B.2
 Eriogonum luteolum var. luteolum,,N,58624,3298,64226
 Eriogonum nudum var. auriculatum,eared buckwheat,N,58650,3316,57220
-Eriogonum nudum var. decurrens,Ben Lomond buckwheat,N,58651,3317,80819
 Eriogonum nudum var. psychicola,Antioch Dunes buckwheat,N,80051,11183,80823,3401,1B.1
 Eriogonum roseum,virgate buckwheat,N,24922,3360,58280
 Eriogonum truncatum,Mt. Diablo buckwheat,N,24957,3383,77039,766,1B.1
@@ -673,7 +668,7 @@ Erythranthe androsacea,,N,99088,13487,771845
 Erythranthe cardinalis,,N,25147,13490,319974
 Erythranthe floribunda,,N,99122,13492,701582
 Erythranthe guttata,,N,99131,13493,470643
-Erythranthe inconspicua,small-flowered monkeyflower,N,99135,13416,771882
+Erythranthe inconspicua,small-flowered monkeyflower,N,99135,13416,771882,,4.3
 Erythranthe latidens,,N,99144,13495,771886
 Eschscholzia caespitosa,tufted poppy,N,25205,3511,58954
 Eschscholzia californica,California poppy,N,25206,3512,48225
@@ -1088,7 +1083,6 @@ Mentzelia micrantha,,N,33259,5433,58933
 Mercurialis annua,annual mercury,X,33300,5450,68838
 Mesembryanthemum nodiflorum,,X,33363,5461,71191
 Micranthes californica,,N,91942,11841,78023
-Micropus amphibolus,Mt. Diablo cottonweed,N,33474,5462,78034
 Micropus californicus var. californicus,slender cottonweed,N,7993,5464,58030
 Micropus californicus var. subvestitus,,N,7994,5465,81107
 Microseris acuminata,,N,4146,5466,60142
@@ -1103,7 +1097,7 @@ Mimetanthe pilosa,,N,33500,13513,165392
 Minuartia californica,California sandwort,N,33742,5568,836856
 Minuartia douglasii,Douglas sandwort,N,33747,5570,836863
 Minuartia pusilla,least sandwort,N,33767,5577,836888
-Mirabilis laevis var. crassifolia,California four O'clock,N,80351,10131,81126
+Mirabilis laevis var. crassifolia,California four o'clock,N,80351,10131,81126
 Modiola caroliniana,,X,33863,5603,78087
 Moehringia macrophylla,large-leaved sandwort,N,33866,5604,61884
 Mollugo verticillata,,X,33883,5609,78090
@@ -1122,6 +1116,7 @@ Myoporum laetum,,X,34200,5720,63611
 Myosotis discolor,,X,34209,5721,70265
 Myosotis latifolia,forget-me-not,X,34211,5722,49132
 Myosurus minimus,mouse-tail,N,34224,5729,58306
+Myosurus minimus subsp. apus,little mousetail,N,,,,,3.1
 Myosurus sessilis,,N,34226,5732,60235
 Myriophyllum aquaticum,parrot's feather,X,34261,5735,60202
 Myriophyllum sibiricum,,N,34273,5737,61034
