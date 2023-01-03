@@ -4,6 +4,11 @@
             "notingeo": true
         }
     },
+    "Castilleja ambigua subsp. ambigua": {
+        "rpi": {
+            "translation-to-rpi": "Castilleja ambigua var. ambigua"
+        }
+    },
     "Castilleja ambigua var. ambigua": {
         "rpi": {
             "translation": "Castilleja ambigua subsp. ambigua"
@@ -33,9 +38,6 @@
         "jepson": {
             "allowsynonym": true,
             "badjepsonid": true
-        },
-        "rpi": {
-            "nojepson": true
         }
     },
     "Erythranthe inconspicua": {

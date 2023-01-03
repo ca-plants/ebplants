@@ -668,7 +668,7 @@ Erythranthe androsacea,,N,99088,13487,771845
 Erythranthe cardinalis,,N,25147,13490,319974
 Erythranthe floribunda,,N,99122,13492,701582
 Erythranthe guttata,,N,99131,13493,470643
-Erythranthe inconspicua,small-flowered monkeyflower,N,99135,13416,771882,,4.3
+Erythranthe inconspicua,small-flowered monkeyflower,N,99135,13416,771882,1092,4.3
 Erythranthe latidens,,N,99144,13495,771886
 Eschscholzia caespitosa,tufted poppy,N,25205,3511,58954
 Eschscholzia californica,California poppy,N,25206,3512,48225
@@ -1116,7 +1116,7 @@ Myoporum laetum,,X,34200,5720,63611
 Myosotis discolor,,X,34209,5721,70265
 Myosotis latifolia,forget-me-not,X,34211,5722,49132
 Myosurus minimus,mouse-tail,N,34224,5729,58306
-Myosurus minimus subsp. apus,little mousetail,N,,,,,3.1
+Myosurus minimus subsp. apus,little mousetail,N,,,,1159,3.1
 Myosurus sessilis,,N,34226,5732,60235
 Myriophyllum aquaticum,parrot's feather,X,34261,5735,60202
 Myriophyllum sibiricum,,N,34273,5737,61034
@@ -1261,7 +1261,7 @@ Plagiobothrys canescens,,N,38488,6554,58064
 Plagiobothrys chorisianus var. chorisianus,,N,63885,6557,57715,1382,1B.2
 Plagiobothrys diffusus,,N,38493,6565,60985,1383,1B.1,CE
 Plagiobothrys fulvus var. campestris,,N,63892,6568,81256
-Plagiobothrys glaber,hairless popcornflower,N,38498,6569,,,1A
+Plagiobothrys glaber,hairless popcornflower,N,38498,6569,,1384,1A
 Plagiobothrys greenei,,N,38501,6574,57716
 Plagiobothrys humistratus,,N,38504,6577,60152
 Plagiobothrys infectivus,,N,38506,6579,78602
@@ -1579,7 +1579,7 @@ Stipa lepida,foothill needlegrass,N,45641,12054,165656
 Stipa miliacea var. miliacea,smilo grass,X,91920,12058,524183
 Stipa pulchra,purple needlegrass,N,45644,12067,165659
 Streptanthus breweri,,N,45725,7822,79258
-Streptanthus albidus subsp. peramoenus,most beautiful jewelflower,N,,,,,1B.2
+Streptanthus albidus subsp. peramoenus,most beautiful jewelflower,N,,,,1490,1B.2
 Streptanthus glandulosus subsp. glandulosus,jewelflower,N,53142,7837,58783
 Streptanthus hispidus,Mt. Diablo jewelflower,N,45741,7842,50620,1502,1B.3
 Stuckenia pectinata,,N,80429,9596,64239
