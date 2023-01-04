@@ -50,6 +50,16 @@
             "notingeo": "Only evidence is a couple very old vouchers."
         }
     },
+    "Heterotheca oregona var. rudis": {
+        "inat": {
+            "notintaxondata": true
+        }
+    },
+    "Horkelia californica var. frondosa": {
+        "inat": {
+            "notintaxondata": true
+        }
+    },
     "Kickxia elatine": {
         "calflora": {
             "badjepsonid": true

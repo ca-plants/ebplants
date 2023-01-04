@@ -782,7 +782,7 @@ Helianthella castanea,Diablo helianthella,N,3232,4036,64250,238,1B.2
 Helianthus annuus,sunflower,N,3244,4040,57983
 Helianthus californicus,California sunflower,N,3254,4042,56954
 Helianthus gracilentus,,N,3280,4047,77356
-Heliotropium curassavicum var. oculatum,heliotrope,N,59914,11723,58058
+Heliotropium curassavicum var. oculatum,heliotrope,N,59914,11723,80928
 Helminthotheca echioides,bristly ox-tongue,X,81752,10921,61906
 Hemizonia congesta subsp. lutescens,,N,80179,10922,61173
 Hemizonia congesta subsp. luzulifolia,,N,102005,4070,56956
@@ -841,7 +841,7 @@ Hydrocotyle ranunculoides,,N,28607,4281,60951
 Hydrocotyle verticillata,,N,28611,4284,60121
 Hydrophyllum occidentale,western waterleaf,N,28634,4287,77471
 Hypericum androsaemum,,X,77418,8601,77480
-Hypericum perforatum subsp. perforatum,Klamath weed,X,91766,11762,56077
+Hypericum perforatum subsp. perforatum,Klamath weed,X,91766,11762,79949
 Hypericum scouleri,St. John's wort,N,28801,11763,77484
 Hypochaeris glabra,smooth cat's ear,X,3623,4313,53103
 Hypochaeris radicata,rough cat's ear,X,3625,4314,53104
@@ -858,7 +858,7 @@ Isolepis carinata,,N,80405,9608,77515
 Isolepis cernua,,N,79218,9605,60257
 Iva axillaris,poverty weed,N,3654,10020,58837
 Jaumea carnosa,,N,3667,4424,60969
-Juglans californica,Southern California black walnut,N,29566,,,1704,4.2
+Juglans californica,Southern California black walnut,N,29566,,54503,1704,4.2
 Juncus acuminatus,tapered rush,N,29592,4432,77549
 Juncus ambiguus,frog rush,X,29601,4434,436606
 Juncus articulatus subsp. articulatus,jointed rush,N,91767,11773,79958
@@ -1116,7 +1116,7 @@ Myoporum laetum,,X,34200,5720,63611
 Myosotis discolor,,X,34209,5721,70265
 Myosotis latifolia,forget-me-not,X,34211,5722,49132
 Myosurus minimus,mouse-tail,N,34224,5729,58306
-Myosurus minimus subsp. apus,little mousetail,N,,,,1159,3.1
+Myosurus minimus subsp. apus,little mousetail,N,,,181537,1159,3.1
 Myosurus sessilis,,N,34226,5732,60235
 Myriophyllum aquaticum,parrot's feather,X,34261,5735,60202
 Myriophyllum sibiricum,,N,34273,5737,61034
@@ -1125,7 +1125,7 @@ Myriophyllum verticillatum,,N,34279,5739,78158
 Myriopteris covillei,Coville's lip fern,N,99420,13123,481701
 Myriopteris gracillima,lace lip fern,N,99422,13125,472796
 Myriopteris intertexta,coastal lip fern,N,99423,13126,481710
-Najas guadalupensis subsp. guadalupensis,common water-nymph,N,80549,10142,78163
+Najas guadalupensis subsp. guadalupensis,common water-nymph,N,80549,10142,80044
 Najas marina,holly-leaved water-nymph,N,34357,5744,78164
 Narcissus pseudonarcissus,daffodil,X,34403,8637,55848
 Narcissus tazetta,daffodil,X,34404,8638,56027
@@ -1261,7 +1261,7 @@ Plagiobothrys canescens,,N,38488,6554,58064
 Plagiobothrys chorisianus var. chorisianus,,N,63885,6557,57715,1382,1B.2
 Plagiobothrys diffusus,,N,38493,6565,60985,1383,1B.1,CE
 Plagiobothrys fulvus var. campestris,,N,63892,6568,81256
-Plagiobothrys glaber,hairless popcornflower,N,38498,6569,,1384,1A
+Plagiobothrys glaber,hairless popcornflower,N,38498,6569,57713,1384,1A
 Plagiobothrys greenei,,N,38501,6574,57716
 Plagiobothrys humistratus,,N,38504,6577,60152
 Plagiobothrys infectivus,,N,38506,6579,78602
@@ -1579,7 +1579,7 @@ Stipa lepida,foothill needlegrass,N,45641,12054,165656
 Stipa miliacea var. miliacea,smilo grass,X,91920,12058,524183
 Stipa pulchra,purple needlegrass,N,45644,12067,165659
 Streptanthus breweri,,N,45725,7822,79258
-Streptanthus albidus subsp. peramoenus,most beautiful jewelflower,N,,,,1490,1B.2
+Streptanthus albidus subsp. peramoenus,most beautiful jewelflower,N,,,58783,1490,1B.2
 Streptanthus glandulosus subsp. glandulosus,jewelflower,N,53142,7837,58783
 Streptanthus hispidus,Mt. Diablo jewelflower,N,45741,7842,50620,1502,1B.3
 Stuckenia pectinata,,N,80429,9596,64239
