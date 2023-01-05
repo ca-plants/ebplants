@@ -85,6 +85,12 @@
             "notingeo": "RPI says 'Easily confused with M. villosa ssp. villosa, which may be the taxon occurring in ALA, CCA'"
         }
     },
+    "Myosurus minimus subsp. apus": {
+        "jepson": {
+            "badjepsonid": true,
+            "ignoreunrecognized": "JFP-11a"
+        }
+    },
     "Navarretia cotulifolia": {
         "rpi": {
             "ingeo": "The CNPS East Bay Rare and Unusual Plants database shows active populations of this species."
@@ -103,6 +109,12 @@
     "Scutellaria galericulata": {
         "rpi": {
             "notingeo": "Marked as extirpated in the CNPS-EB database."
+        }
+    },
+    "Streptanthus albidus subsp. peramoenus": {
+        "jepson": {
+            "allowsynonym": true,
+            "badjepsonid": true
         }
     },
     "Stuckenia filiformis subsp. alpina": {
