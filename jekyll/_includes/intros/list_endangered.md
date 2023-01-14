@@ -1,0 +1,1 @@
+These East Bay species are protected by the [California Endangered Species Act](https://wildlife.ca.gov/Conservation/CESA) or the [Federal Endangered Species Act](https://www.fws.gov/law/endangered-species-act).

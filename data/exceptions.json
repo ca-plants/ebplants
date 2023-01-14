@@ -14,6 +14,11 @@
             "translation": "Castilleja ambigua subsp. ambigua"
         }
     },
+    "Dichondra donelliana": {
+        "calflora": {
+            "badjepsonid": true
+        }
+    },
     "Cryptantha hooveri": {
         "rpi": {
             "extirpated": "1A (extirpated) in CNPS Rare Plant Inventory."
