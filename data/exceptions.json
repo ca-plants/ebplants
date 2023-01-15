@@ -40,6 +40,9 @@
         }
     },
     "Erysimum capitatum var. angustatum": {
+        "calflora": {
+            "badjepsonid": true
+        },
         "jepson": {
             "allowsynonym": true,
             "badjepsonid": true
@@ -117,6 +120,9 @@
         }
     },
     "Streptanthus albidus subsp. peramoenus": {
+        "calflora": {
+            "notintaxondata": true
+        },
         "jepson": {
             "allowsynonym": true,
             "badjepsonid": true
@@ -125,6 +131,11 @@
     "Stuckenia filiformis subsp. alpina": {
         "rpi": {
             "notingeo": "All observations are historic."
+        }
+    },
+    "Urtica dioica subsp. holosericea": {
+        "jepson": {
+            "notinnameindex": "Not in index as of 2023-01-15."
         }
     }
 }
