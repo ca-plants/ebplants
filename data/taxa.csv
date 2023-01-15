@@ -521,6 +521,7 @@ Deschampsia danthonioides,annual hairgrass,N,22598,2691,57164
 Deschampsia elongata,slender hairgrass,N,22600,2692,52722
 Descurainia pinnata subsp. brachycarpa,tansy mustard,N,50146,11596,59235
 Desmazeria rigida,,X,22633,2706,288259
+Dianthus nudiflorus,,X,85151
 Dicentra formosa,bleeding heart,N,22766,2711,51048
 Dichelostemma congestum,ookow,N,22850,2721,56593
 Dichelostemma multiflorum,,N,22853,2723,62262
@@ -653,9 +654,9 @@ Erodium brachycarpum,,X,25038,3447,58171
 Erodium cicutarium,red-stemmed filaree,X,25041,3448,47687
 Erodium malacoides,,X,76818,3451,77056
 Erodium moschatum,white-stem filaree,X,25048,3452,57092
-Eryngium aristulatum,Jepson's button celery,N,25070,3457,57901
 Eryngium aristulatum var. aristulatum,coyote-thistle,N,58845,3458,64189
 Eryngium aristulatum var. hooveri,,N,58846,3459,57904,783,1B.1
+Eryngium aristulatum,Jepson's button celery,N,25070,3457,57901
 Eryngium armatum,,N,25071,3461,60950
 Eryngium articulatum,,N,25073,3462,60119
 Eryngium castrense,,N,25076,3463,77061
@@ -1094,9 +1095,6 @@ Microseris elegans,,N,4152,5474,58032
 Microseris sylvatica,,N,4160,5481,78037,1969,4.2
 Microsteris gracilis,,N,33480,10117,61210
 Mimetanthe pilosa,,N,33500,13513,165392
-Minuartia californica,California sandwort,N,33742,5568,836856
-Minuartia douglasii,Douglas sandwort,N,33747,5570,836863
-Minuartia pusilla,least sandwort,N,33767,5577,836888
 Mirabilis laevis var. crassifolia,California four o'clock,N,80351,10131,81126
 Modiola caroliniana,,X,33863,5603,78087
 Moehringia macrophylla,large-leaved sandwort,N,33866,5604,61884
@@ -1115,8 +1113,8 @@ Muilla maritima,common muilla,N,34146,5716,56627
 Myoporum laetum,,X,34200,5720,63611
 Myosotis discolor,,X,34209,5721,70265
 Myosotis latifolia,forget-me-not,X,34211,5722,49132
-Myosurus minimus,mouse-tail,N,34224,5729,58306
 Myosurus minimus subsp. apus,little mousetail,N,,,181537,1159,3.1
+Myosurus minimus,mouse-tail,N,34224,5729,58306
 Myosurus sessilis,,N,34226,5732,60235
 Myriophyllum aquaticum,parrot's feather,X,34261,5735,60202
 Myriophyllum sibiricum,,N,34273,5737,61034
@@ -1438,6 +1436,9 @@ Ruppia maritima,ditch-grass,N,42451,7239,61090
 Rytidosperma caespitosum,,X,80883,12000,78918
 Rytidosperma penicillatum,hairy oat grass,X,80882,10684,78919
 Rytidosperma racemosum,,X,80333,11062,78920
+Sabulina californica,California sandwort,N,33742,5568,836856
+Sabulina douglasii,Douglas sandwort,N,33747,5570,836863
+Sabulina pusilla,least sandwort,N,33767,5577,836888
 Sagina apetala,dwarf pearlwort,X,42572,7243,56998
 Sagina decumbens subsp. occidentalis,western pearlwort,N,52717,7244,57000
 Sagina procumbens,matted pearlwort,X,42584,7246,55667
@@ -1578,8 +1579,8 @@ Stipa lemmonii var. lemmonii,Lemmon's needlegrass,N,73899,12053,1220756
 Stipa lepida,foothill needlegrass,N,45641,12054,165656
 Stipa miliacea var. miliacea,smilo grass,X,91920,12058,524183
 Stipa pulchra,purple needlegrass,N,45644,12067,165659
-Streptanthus breweri,,N,45725,7822,79258
 Streptanthus albidus subsp. peramoenus,most beautiful jewelflower,N,,,58783,1490,1B.2
+Streptanthus breweri,,N,45725,7822,79258
 Streptanthus glandulosus subsp. glandulosus,jewelflower,N,53142,7837,58783
 Streptanthus hispidus,Mt. Diablo jewelflower,N,45741,7842,50620,1502,1B.3
 Stuckenia pectinata,,N,80429,9596,64239
@@ -1684,7 +1685,6 @@ Urtica dioica subsp. holosericea,hoary nettle,N,53303,8187,141851
 Urtica urens,dwarf nettle,X,47589,8188,53315
 Vaccinium ovatum,"California huckleberry,evergreen huckleberry",N,47685,8200,48349
 Vancouveria planipetala,inside-out flower,N,47786,8215,63938
-Velezia rigida,,X,47814,8216,79481
 Verbascum blattaria,moth mullein,X,47833,8224,59028
 Verbascum thapsus,woolly mullein,X,47846,8226,59029
 Verbena hastata,,N,47903,8232,60251
