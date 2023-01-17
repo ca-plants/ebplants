@@ -24,16 +24,6 @@
             "extirpated": "1A (extirpated) in CNPS Rare Plant Inventory."
         }
     },
-    "Cryptantha juniperensis": {
-        "jepson": {
-            "notinnameindex": "Not in index as of 2022-12-30."
-        }
-    },
-    "Cyperus niger": {
-        "jepson": {
-            "notinnameindex": "Cyperus niger var. capitatus appears to be listed instead."
-        }
-    },
     "Erythranthe laciniata": {
         "rpi": {
             "notingeo": "Marked as extirpated in the CNPS-EB database."
@@ -44,8 +34,7 @@
             "badjepsonid": true
         },
         "jepson": {
-            "allowsynonym": true,
-            "badjepsonid": true
+            "allowsynonym": true
         }
     },
     "Erythranthe inconspicua": {
@@ -95,18 +84,12 @@
     },
     "Myosurus minimus subsp. apus": {
         "jepson": {
-            "badjepsonid": true,
-            "ignoreunrecognized": "JFP-11a"
+            "notineflora": "in CNPS Rare Plant Inventory"
         }
     },
     "Navarretia cotulifolia": {
         "rpi": {
             "ingeo": "The CNPS East Bay Rare and Unusual Plants database shows active populations of this species."
-        }
-    },
-    "Rhinotropis californica": {
-        "jepson": {
-            "notinnameindex": "Name change in rev. 11; not in index as of 2022-12-30."
         }
     },
     "Polygonum marinense": {
@@ -124,18 +107,12 @@
             "notintaxondata": true
         },
         "jepson": {
-            "allowsynonym": true,
-            "badjepsonid": true
+            "allowsynonym": true
         }
     },
     "Stuckenia filiformis subsp. alpina": {
         "rpi": {
             "notingeo": "All observations are historic."
-        }
-    },
-    "Urtica dioica subsp. holosericea": {
-        "jepson": {
-            "notinnameindex": "Not in index as of 2023-01-15."
         }
     }
 }
