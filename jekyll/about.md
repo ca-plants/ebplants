@@ -1,7 +1,7 @@
 ---
 title: About East Bay Plants
 ---
-# Where the data comes from
+## Where the data comes from
 
 The information in this site comes from the following sources:
 - [Jepson eFlora](https://ucjeps.berkeley.edu/eflora/) is used as the definitive source for species, subspecies and variety names, and as one of the tools to determine whether uncommon species are found in the East Bay.
@@ -10,6 +10,6 @@ The information in this site comes from the following sources:
 - The CNPS East Bay Chapter [Rare and Unusual Plant Database](https://ebcnps.org/ebrare-plant-database/) is used to help determine which uncommon plants are found in the East Bay.
 - The [*Annotated checklist of the East Bay Flora*, 2nd edition](https://ebcnps.org/annotated-checklist-of-the-east-bay-flora/) is used to check many of the entries.
 
-# Where to find the data and source code
+## Where to find the data and source code
 
 The data and source code used to create this website are hosted on [GitHub](https://github.com/ca-plants/ebplants).

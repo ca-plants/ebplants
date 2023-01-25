@@ -1,7 +1,6 @@
 ---
-title: Rare Plants
+title: Rare Plant Programs
 ---
-# Rare Plant Programs
 
 There are several organizations and government agencies with programs that track and monitor rare plants.
 
