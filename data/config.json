@@ -4,7 +4,7 @@
         "CCA"
     ],
     "inat": {
-        "project": "ebcnps"
+        "project_id": "ebcnps"
     },
     "labels": {
         "introduced": "Introduced to the East Bay",
