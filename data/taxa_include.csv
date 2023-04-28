@@ -1,4 +1,4 @@
-taxon_name
+taxon_name,status
 Abronia latifolia
 Abronia umbellata var. umbellata
 Abutilon theophrasti
@@ -482,7 +482,7 @@ Cynosurus echinatus
 Cyperus difformis
 Cyperus eragrostis
 Cyperus erythrorhizos
-Cyperus esculentus
+Cyperus esculentus,NC
 Cyperus involucratus
 Cyperus niger
 Cyperus odoratus
@@ -559,7 +559,7 @@ Dysphania multifida
 Eastwoodia elegans
 Echinochloa colona
 Echinochloa crus-galli
-Echinochloa muricata var. microstachya
+Echinochloa muricata var. microstachya,NC
 Echinodorus berteroi
 Echium candicans
 Eclipta prostrata
@@ -633,7 +633,7 @@ Eriobotrya japonica
 Eriodictyon californicum
 Eriogonum angulosum
 Eriogonum covilleanum
-Eriogonum fasciculatum var. foliolosum
+Eriogonum fasciculatum var. foliolosum,NC
 Eriogonum fasciculatum var. polifolium
 Eriogonum gracile var. gracile
 Eriogonum inerme var. inerme
@@ -793,7 +793,7 @@ Hesperevax acaulis var. ambusticola
 Hesperevax caulescens
 Hesperevax sparsiflora var. sparsiflora
 Hesperocnide tenella
-Hesperocyparis macrocarpa
+Hesperocyparis macrocarpa,NC
 Hesperocyparis sargentii
 Hesperolinon breweri
 Hesperolinon californicum
@@ -1044,7 +1044,7 @@ Malacothrix californica
 Malacothrix clevelandii
 Malacothrix coulteri
 Malacothrix floccifera
-Malva assurgentiflora
+Malva assurgentiflora,NC
 Malva multiflora
 Malva nicaeensis
 Malva parviflora
@@ -1244,7 +1244,7 @@ Pickeringia montana var. montana
 Pilularia americana
 Pinus attenuata
 Pinus coulteri
-Pinus radiata
+Pinus radiata,NC
 Pinus sabiniana
 Piperia elegans subsp. elegans
 Piperia elongata
@@ -1458,10 +1458,10 @@ Salpichroa origanifolia
 Salsola australis
 Salsola soda
 Salsola tragus
-Salvia apiana
+Salvia apiana,NC
 Salvia carduacea
 Salvia columbariae
-Salvia leucophylla
+Salvia leucophylla,NC
 Salvia mellifera
 Salvia spathacea
 Sambucus mexicana
