@@ -3,6 +3,11 @@
         "ALA",
         "CCA"
     ],
+    "ebook": {
+        "filename": "ebflora",
+        "pub_id": "6e1c7c91-c4c7-4f3d-aab5-df2e59ce55da",
+        "title": "Flora of the East Bay"
+    },
     "inat": {
         "project_id": "ebcnps"
     },
