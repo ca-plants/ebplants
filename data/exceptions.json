@@ -4,16 +4,6 @@
             "notingeo": true
         }
     },
-    "Castilleja ambigua subsp. ambigua": {
-        "rpi": {
-            "translation-to-rpi": "Castilleja ambigua var. ambigua"
-        }
-    },
-    "Castilleja ambigua var. ambigua": {
-        "rpi": {
-            "translation": "Castilleja ambigua subsp. ambigua"
-        }
-    },
     "Cryptantha hooveri": {
         "rpi": {
             "extirpated": "1A (extirpated) in CNPS Rare Plant Inventory."
@@ -24,27 +14,9 @@
             "notingeo": "Marked as extirpated in the CNPS-EB database."
         }
     },
-    "Erysimum capitatum var. angustatum": {
-        "calflora": {
-            "badjepsonid": true
-        },
-        "jepson": {
-            "allowsynonym": true
-        }
-    },
     "Gilia millefoliata": {
         "rpi": {
             "notingeo": "Only evidence is a couple very old vouchers."
-        }
-    },
-    "Heterotheca oregona var. rudis": {
-        "inat": {
-            "notintaxondata": true
-        }
-    },
-    "Horkelia californica var. frondosa": {
-        "inat": {
-            "notintaxondata": true
         }
     },
     "Lilium rubescens": {
@@ -67,11 +39,6 @@
             "notingeo": "RPI says 'Easily confused with M. villosa ssp. villosa, which may be the taxon occurring in ALA, CCA'"
         }
     },
-    "Myosurus minimus subsp. apus": {
-        "jepson": {
-            "notineflora": "in CNPS Rare Plant Inventory"
-        }
-    },
     "Navarretia cotulifolia": {
         "rpi": {
             "ingeo": "The CNPS East Bay Rare and Unusual Plants database shows active populations of this species."
@@ -85,14 +52,6 @@
     "Scutellaria galericulata": {
         "rpi": {
             "notingeo": "Marked as extirpated in the CNPS-EB database."
-        }
-    },
-    "Streptanthus albidus subsp. peramoenus": {
-        "calflora": {
-            "notintaxondata": true
-        },
-        "jepson": {
-            "allowsynonym": true
         }
     },
     "Stuckenia filiformis subsp. alpina": {
