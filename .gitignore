@@ -1,6 +1,5 @@
-_site/
 external_data/
 node_modules/
 output/
-testdata/
+public/
 /*.cmd
