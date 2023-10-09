@@ -1,6 +1,4 @@
 taxon_name,status
-Abronia latifolia
-Abronia umbellata var. umbellata
 Abutilon theophrasti
 Acacia baileyana
 Acacia dealbata
@@ -473,6 +471,7 @@ Deinandra corymbosa
 Deinandra kelloggii
 Deinandra lobbii
 Delairea odorata
+Delphinium californicum subsp. californicum
 Delphinium californicum subsp. interius
 Delphinium decorum subsp. decorum
 Delphinium gypsophilum
@@ -572,11 +571,12 @@ Eragrostis cilianensis
 Eragrostis curvula
 Eragrostis hypnoides
 Eragrostis pectinacea var. pectinacea
+Eremalche exilis
 Eremalche parryi subsp. parryi
 Eremothera boothii subsp. decorticans
 Eriastrum abramsii
 Eriastrum ertterae
-Eriastrum pluriflorum
+Eriastrum pluriflorum subsp. pluriflorum
 Ericameria arborescens
 Ericameria linearifolia
 Ericameria nauseosa var. mohavensis
@@ -598,6 +598,7 @@ Eriogonum inerme var. inerme
 Eriogonum luteolum var. caninum
 Eriogonum luteolum var. luteolum
 Eriogonum nudum var. auriculatum
+Eriogonum nudum var. pauciflorum
 Eriogonum nudum var. psychicola
 Eriogonum roseum
 Eriogonum truncatum
@@ -620,6 +621,7 @@ Eryngium articulatum
 Eryngium castrense
 Eryngium jepsonii
 Eryngium spinosepalum
+Eryngium vaseyi var. vallicola
 Erysimum capitatum var. angustatum
 Erysimum capitatum var. capitatum
 Erythranthe arvensis
@@ -627,6 +629,7 @@ Erythranthe cardinalis
 Erythranthe guttata
 Erythranthe inconspicua
 Erythranthe latidens
+Erythranthe microphylla
 Erythranthe nasuta
 Eschscholzia caespitosa
 Eschscholzia californica
@@ -744,7 +747,6 @@ Hemizonia congesta subsp. lutescens
 Hemizonia congesta subsp. luzulifolia
 Heracleum maximum
 Herniaria hirsuta var. cinerea
-Hesperevax acaulis var. ambusticola
 Hesperevax caulescens
 Hesperevax sparsiflora var. sparsiflora
 Hesperocnide tenella
@@ -755,7 +757,6 @@ Hesperolinon californicum
 Hesperolinon clevelandii
 Hesperolinon disjunctum
 Hesperolinon micranthum
-Hesperomecon linearis
 Heterocodon rariflorum
 Heteromeles arbutifolia
 Heterotheca grandiflora
@@ -768,8 +769,6 @@ Hibiscus lasiocarpos var. occidentalis
 Hieracium albiflorum
 Hirschfeldia incana
 Hoita macrostachya
-Hoita orbicularis
-Hoita strobilina
 Holcus lanatus
 Holcus mollis
 Holocarpha heermannii
@@ -789,7 +788,6 @@ Hordeum murinum subsp. murinum
 Horkelia californica var. californica
 Horkelia californica var. elata
 Horkelia californica var. frondosa
-Horkelia cuneata var. sericea
 Hornungia procumbens
 Hosackia crassifolia var. crassifolia
 Hosackia stipularis var. stipularis
@@ -798,7 +796,6 @@ Hydrocotyle verticillata
 Hydrophyllum occidentale
 Hypericum androsaemum
 Hypericum perforatum subsp. perforatum
-Hypericum scouleri
 Hypochaeris glabra
 Hypochaeris radicata
 Idahoa scapigera
@@ -808,7 +805,6 @@ Iris douglasiana
 Iris foetidissima
 Iris longipetala
 Iris pseudacorus
-Isocoma arguta
 Isoetes howellii
 Isolepis carinata
 Isolepis cernua
@@ -817,7 +813,6 @@ Jaumea carnosa
 Juglans californica
 Juncus acuminatus
 Juncus ambiguus
-Juncus articulatus subsp. articulatus
 Juncus balticus subsp. ater
 Juncus bufonius var. bufonius
 Juncus capitatus
@@ -859,7 +854,6 @@ Lasthenia fremontii
 Lasthenia glaberrima
 Lasthenia glabrata subsp. glabrata
 Lasthenia gracilis
-Lasthenia maritima
 Lasthenia microglossa
 Lasthenia minor
 Lasthenia platycarpha
@@ -888,11 +882,9 @@ Lepidium draba
 Lepidium latifolium
 Lepidium latipes
 Lepidium nitidum
-Lepidium oblongum
 Lepidium oxycarpum
 Lepidium pinnatifidum
 Lepidium strictum
-Lepidospartum squamatum
 Leptochloa fusca subsp. fascicularis
 Leptochloa fusca subsp. uninervia
 Leptosiphon ambiguus
@@ -901,17 +893,14 @@ Leptosiphon aureus
 Leptosiphon bicolor
 Leptosiphon bolanderi
 Leptosiphon ciliatus
-Leptosiphon grandiflorus
 Leptosiphon liniflorus
 Leptosiphon parviflorus
 Leptosiphon pygmaeus subsp. continentalis
 Leptosyne calliopsidea
 Leptosyne hamiltonii
-Leptosyne stillmanii
-Lessingia hololeuca
-Lessingia nana
 Lessingia nemaclada
 Lessingia pectinata var. tenuipes
+Lessingia ramulosa
 Lessingia tenuis
 Lewisia rediviva var. rediviva
 Ligusticum apiifolium
@@ -919,19 +908,16 @@ Ligustrum lucidum
 Lilaeopsis masonii
 Lilium pardalinum subsp. pardalinum
 Limnanthes douglasii subsp. douglasii
-Limnanthes douglasii subsp. nivea
-Limnanthes douglasii subsp. rosea
 Limnobium spongia
 Limonium californicum
 Limonium ramosissimum
 Limosella acaulis
 Limosella australis
 Linanthus dichotomus subsp. dichotomus
+Linanthus dichotomus subsp. meridianus
 Linum bienne
-Linum lewisii var. lewisii
 Lithophragma affine
 Lithophragma bolanderi
-Lithophragma cymbalaria
 Lithophragma heterophyllum
 Lithophragma parviflorum var. parviflorum
 Lobularia maritima
@@ -951,7 +937,6 @@ Lonicera japonica
 Lonicera subspicata var. denudata
 Lotus corniculatus
 Ludwigia hexapetala
-Ludwigia palustris
 Ludwigia peploides subsp. montevidensis
 Ludwigia peploides subsp. peploides
 Lunaria annua
@@ -959,13 +944,10 @@ Lupinus affinis
 Lupinus albifrons var. albifrons
 Lupinus albifrons var. collinus
 Lupinus arboreus
-Lupinus benthamii
 Lupinus bicolor
-Lupinus chamissonis
 Lupinus concinnus
 Lupinus formosus var. formosus
 Lupinus latifolius var. latifolius
-Lupinus luteolus
 Lupinus microcarpus var. densiflorus
 Lupinus microcarpus var. microcarpus
 Lupinus nanus
@@ -985,17 +967,14 @@ Lythrum californicum
 Lythrum hyssopifolia
 Lythrum salicaria
 Lythrum tribracteatum
-Madia anomala
 Madia elegans
 Madia exigua
 Madia gracilis
-Madia radiata
 Madia sativa
 Maianthemum racemosum
 Maianthemum stellatum
 Malacothamnus fremontii
 Malacothamnus hallii
-Malacothrix californica
 Malacothrix clevelandii
 Malacothrix coulteri
 Malacothrix floccifera
@@ -1009,7 +988,6 @@ Marah oregana
 Marrubium vulgare
 Marsilea vestita subsp. vestita
 Matricaria discoidea
-Matricaria occidentalis
 Maytenus boaria
 Meconella californica
 Meconella oregana
@@ -1017,8 +995,10 @@ Medicago arabica
 Medicago lupulina
 Medicago polymorpha
 Medicago sativa
+Melica bulbosa
 Melica californica
 Melica imperfecta
+Melica subulata
 Melica torreyana
 Melilotus albus
 Melilotus indicus
@@ -1033,7 +1013,6 @@ Mentha spicata
 Mentha suaveolens
 Mentzelia affinis
 Mentzelia dispersa
-Mentzelia laevicaulis
 Mentzelia lindleyi
 Mentzelia micrantha
 Mercurialis annua
@@ -1042,7 +1021,6 @@ Micranthes californica
 Micropus californicus var. californicus
 Micropus californicus var. subvestitus
 Microseris acuminata
-Microseris bigelovii
 Microseris campestris
 Microseris douglasii subsp. douglasii
 Microseris douglasii subsp. tenella
@@ -1061,15 +1039,15 @@ Monolopia gracilens
 Monolopia lanceolata
 Monolopia major
 Montia fontana
-Montia linearis
 Morella californica
 Muehlenbeckia complexa
 Muilla maritima
 Myoporum laetum
 Myosotis discolor
 Myosotis latifolia
-Myosurus minimus subsp. apus
+Myosotis laxa
 Myosurus minimus
+Myosurus minimus subsp. apus
 Myosurus sessilis
 Myriophyllum aquaticum
 Myriophyllum sibiricum
@@ -1099,6 +1077,7 @@ Nemophila heterophylla
 Nemophila menziesii var. menziesii
 Nemophila parviflora var. parviflora
 Nemophila pedunculata
+Nicotiana attenuata
 Nicotiana acuminata var. multiflora
 Nicotiana glauca
 Nicotiana quadrivalvis
@@ -1169,19 +1148,16 @@ Phacelia distans
 Phacelia divaricata
 Phacelia douglasii
 Phacelia imbricata var. imbricata
-Phacelia malvifolia
+Phacelia malvifolia var. malvifolia
 Phacelia nemoralis var. nemoralis
 Phacelia phacelioides
 Phacelia ramosissima
 Phacelia rattanii
 Phacelia suaveolens
 Phacelia tanacetifolia
-Phalaris angusta
 Phalaris aquatica
 Phalaris arundinacea
 Phalaris brachystachys
-Phalaris californica
-Phalaris lemmonii
 Phalaris minor
 Phalaris paradoxa
 Phelipanche ramosa
@@ -1191,12 +1167,10 @@ Pholistoma membranaceum
 Phoradendron leucarpum subsp. macrophyllum
 Phoradendron leucarpum subsp. tomentosum
 Phragmites australis
-Phyla lanceolata
 Phyla nodiflora
 Physocarpus capitatus
 Phytolacca heterotepala
 Pickeringia montana var. montana
-Pilularia americana
 Pinus attenuata
 Pinus coulteri
 Pinus radiata,NC
@@ -1205,19 +1179,17 @@ Piperia elegans subsp. elegans
 Piperia elongata
 Piperia michaelii
 Piperia transversa
+Piperia unalascensis
 Pistacia atlantica
 Pittosporum crassifolium
 Plagiobothrys acanthocarpus
 Plagiobothrys arizonicus
 Plagiobothrys bracteatus
-Plagiobothrys canescens
-Plagiobothrys chorisianus var. chorisianus
-Plagiobothrys diffusus
+Plagiobothrys canescens var. canescens
 Plagiobothrys fulvus var. campestris
 Plagiobothrys glaber
 Plagiobothrys greenei
 Plagiobothrys humistratus
-Plagiobothrys infectivus
 Plagiobothrys leptocladus
 Plagiobothrys nothofulvus
 Plagiobothrys stipitatus var. micranthus
@@ -1230,9 +1202,7 @@ Plantago elongata
 Plantago erecta
 Plantago lanceolata
 Plantago major
-Plantago maritima
 Plantago subnuda
-Platanthera dilatata var. leucostachys
 Platanus racemosa
 Platystemon californicus
 Plectritis ciliosa
@@ -1242,14 +1212,11 @@ Pleuropogon californicus var. californicus
 Pluchea odorata var. odorata
 Poa annua
 Poa bulbosa
-Poa douglasii
 Poa howellii
 Poa pratensis subsp. pratensis
 Poa secunda subsp. secunda
-Pogogyne douglasii
 Pogogyne serpylloides
 Pogogyne zizyphoroides
-Polemonium carneum
 Polycarpon tetraphyllum var. tetraphyllum
 Polygonum argyrocoleon
 Polygonum aviculare subsp. aviculare
@@ -1274,11 +1241,9 @@ Potamogeton foliosus subsp. foliosus
 Potamogeton illinoensis
 Potamogeton nodosus
 Potamogeton pusillus
-Potamogeton zosteriformis
 Potentilla anserina subsp. pacifica
 Potentilla rivalis
 Poterium sanguisorba
-Primula clevelandii var. gracilis
 Primula clevelandii var. patula
 Primula hendersonii
 Proboscidea lutea
@@ -1288,6 +1253,7 @@ Prunella vulgaris var. vulgaris
 Prunus cerasifera
 Prunus dulcis
 Prunus emarginata
+Prunus ilicifolia subsp. ilicifolia
 Prunus subcordata
 Prunus virginiana var. demissa
 Pseudognaphalium beneolens
@@ -1307,15 +1273,13 @@ Ptelea crenulata
 Pteridium aquilinum var. pubescens
 Pterostegia drymarioides
 Puccinellia distans
-Puccinellia nutkaensis
 Puccinellia nuttalliana
 Puccinellia simplex
 Pyracantha angustifolia
 Pyracantha coccinea
 Pyracantha crenulata
 Pyracantha fortuneana
-Pyrrocoma racemosa var. racemosa
-Quercus agrifolia var. agrifolia
+Quercus agrifolia
 Quercus berberidifolia
 Quercus chrysolepis
 Quercus douglasii
@@ -1337,8 +1301,6 @@ Ranunculus hebecarpus
 Ranunculus lobbii
 Ranunculus muricatus
 Ranunculus occidentalis var. occidentalis
-Ranunculus orthorhynchus var. bloomeri
-Ranunculus orthorhynchus var. orthorhynchus
 Ranunculus repens
 Ranunculus sceleratus
 Raphanus raphanistrum
@@ -1349,7 +1311,6 @@ Rhamnus ilicifolia
 Rhaponticum repens
 Rhinotropis californica
 Rhus aromatica
-Ribes amarum
 Ribes aureum var. gracillimum
 Ribes californicum var. californicum
 Ribes divaricatum var. pubiflorum
@@ -1398,16 +1359,15 @@ Sabulina pusilla
 Sagina apetala
 Sagina decumbens subsp. occidentalis
 Sagina procumbens
+Sagittaria latifolia
 Salicornia depressa
 Salicornia pacifica
 Salicornia rubra
-Salix breweri
 Salix exigua var. hindsiana
 Salix gooddingii
 Salix laevigata
 Salix lasiandra var. lasiandra
 Salix lasiolepis
-Salix melanopsis
 Salix scouleriana
 Salix sitchensis
 Salpichroa origanifolia
@@ -1415,7 +1375,6 @@ Salsola australis
 Salsola soda
 Salsola tragus
 Salvia apiana,NC
-Salvia carduacea
 Salvia columbariae
 Salvia leucophylla,NC
 Salvia mellifera
@@ -1423,12 +1382,10 @@ Salvia spathacea
 Sambucus mexicana
 Sambucus racemosa var. racemosa
 Samolus parviflorus
-Sanicula arctopoides
 Sanicula bipinnata
 Sanicula bipinnatifida
 Sanicula crassicaulis
 Sanicula laciniata
-Sanicula maritima
 Sanicula saxatilis
 Sanicula tuberosa
 Scabiosa atropurpurea
@@ -1447,10 +1404,9 @@ Scutellaria californica
 Scutellaria siphocampyloides
 Scutellaria tuberosa
 Sedella pentandra
-Sedum radiatum
+Sedum radiatum subsp. radiatum
 Sedum spathulifolium
 Selaginella bigelovii
-Senecio aphanactis
 Senecio aronicoides
 Senecio flaccidus var. douglasii
 Senecio glomeratus
@@ -1471,6 +1427,7 @@ Sidalcea malviflora subsp. malviflora
 Silene antirrhina
 Silene gallica
 Silene laciniata subsp. californica
+Silene lemmonii
 Silene verecunda
 Silybum marianum
 Sinapis arvensis
@@ -1487,7 +1444,6 @@ Solanum lanceolatum
 Solanum nigrum
 Solanum physalifolium var. nitidibaccatum
 Solanum umbelliferum
-Solanum xanti
 Soleirolia soleirolii
 Solidago elongata
 Solidago velutina subsp. californica
@@ -1513,7 +1469,6 @@ Spergularia marina
 Spergularia media var. media
 Spergularia rubra
 Spergularia villosa
-Spiranthes porrifolia
 Spiranthes romanzoffiana
 Sporobolus airoides
 Sporobolus indicus
@@ -1558,6 +1513,7 @@ Taraxacum erythrospermum
 Taraxacum officinale
 Taraxia ovata
 Tauschia hartwegii
+Taxus brevifolia
 Tellima grandiflora
 Tetragonia tetragonoides
 Tetrapteron graciliflorum
@@ -1565,7 +1521,6 @@ Thalictrum fendleri var. polycarpum
 Thysanocarpus curvipes
 Thysanocarpus laciniatus
 Thysanocarpus radians
-Tolmiea diplomenziesii
 Tonella tenella
 Torilis arvensis
 Torilis nodosa
@@ -1574,7 +1529,6 @@ Toxicoscordion fremontii
 Toxicoscordion venenosum var. venenosum
 Tradescantia fluminensis
 Tragopogon porrifolius
-Trianthema portulacastrum
 Tribulus terrestris
 Trichostema lanceolatum
 Trifolium albopurpureum
@@ -1585,6 +1539,7 @@ Trifolium bifidum var. decipiens
 Trifolium campestre
 Trifolium ciliolatum
 Trifolium columbinum
+Trifolium cyathiferum
 Trifolium depauperatum var. depauperatum
 Trifolium depauperatum var. truncatum
 Trifolium dichotomum
@@ -1625,7 +1580,6 @@ Triphysaria versicolor subsp. faucibarbata
 Trisetum canescens
 Triteleia hyacinthina
 Triteleia laxa
-Triteleia peduncularis
 Tropaeolum majus
 Tropidocarpum capparideum
 Tropidocarpum gracile
@@ -1641,7 +1595,6 @@ Urtica dioica subsp. gracilis
 Urtica dioica subsp. holosericea
 Urtica urens
 Vaccinium ovatum
-Vancouveria planipetala
 Verbascum blattaria
 Verbascum thapsus
 Verbena hastata
@@ -1675,6 +1628,7 @@ Viola purpurea subsp. quercetorum
 Viola sempervirens
 Viola sheltonii
 Vitis californica
+Wolffia brasiliensis
 Woodwardia fimbriata
 Wyethia angustifolia
 Wyethia glabra
@@ -1686,5 +1640,4 @@ Zannichellia palustris
 Zantedeschia aethiopica
 Zeltnera davyi
 Zeltnera muehlenbergii
-Zeltnera trichantha
 Zostera marina
