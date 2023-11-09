@@ -24,8 +24,6 @@ jobs:
           bundler-cache: true
       - run: npx @ca-plant-list/ca-plant-list
 
-#      - run: bundle exec jekyll build --source "./output" --baseurl ""
-
       - uses: actions/upload-pages-artifact@v1
         with:
           path: "public/"
