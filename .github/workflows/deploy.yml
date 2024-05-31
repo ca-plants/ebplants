@@ -20,7 +20,7 @@ jobs:
           node-version: '*'
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3'
+          ruby-version: '3.2'
           bundler-cache: true
       - run: npx @ca-plant-list/ca-plant-list
 
