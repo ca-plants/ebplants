@@ -3,7 +3,7 @@
         "eslint": "^9.11.1"
     },
     "dependencies": {
-        "@ca-plant-list/ca-plant-list": "^0.4.2"
+        "@ca-plant-list/ca-plant-list": "^0.4.4"
     },
     "type": "module"
 }
