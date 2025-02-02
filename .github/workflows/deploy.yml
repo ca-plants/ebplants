@@ -24,7 +24,7 @@ jobs:
           bundler-cache: true
       - run: npx @ca-plant-list/ca-plant-list
 
-      - uses: actions/upload-pages-artifact@v1
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: "public/"
   deploy:
