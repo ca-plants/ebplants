@@ -1,23 +1,21 @@
 {
-    "counties": [
-        "ALA",
-        "CCA"
-    ],
-    "ebook": {
-        "filename": "ebflora",
-        "pub_id": "6e1c7c91-c4c7-4f3d-aab5-df2e59ce55da",
-        "title": "Flora of the East Bay"
-    },
-    "inat": {
-        "project_id": "ebcnps"
-    },
-    "labels": {
-        "introduced": "Introduced to the East Bay",
-        "native": "Native to the East Bay",
-        "status-NC": "California native introduced to the East Bay"
-    },
-    "rpi": {
-        "ignorecnddb": true,
-        "ignoreglobal": true
-    }
+  "counties": ["ALA", "CCA"],
+  "ebook": {
+    "filename": "ebflora",
+    "pub_id": "6e1c7c91-c4c7-4f3d-aab5-df2e59ce55da",
+    "title": "Flora of the East Bay"
+  },
+  "inat": {
+    "project_id": "ebcnps"
+  },
+  "labels": {
+    "introduced": "Introduced to the East Bay",
+    "native": "Native to the East Bay",
+    "status-NC": "California native introduced to the East Bay"
+  },
+  "rpi": {
+    "ignorecnddb": true,
+    "ignoreglobal": true
+  },
+  "siteName": "East Bay Plants"
 }

@@ -1,6 +1,7 @@
 ---
 title: Plants of the East Bay
 ---
+
 This site contains information about the plants which grow wild in Alameda and Contra Costa counties.
 
 To get started, you can look at the [plant lists](./index_lists.html) or [search for a plant by name](./name_search.html).
