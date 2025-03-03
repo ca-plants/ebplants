@@ -254,8 +254,6 @@ Camissoniopsis cheiranthifolia subsp. cheiranthifolia
 Camissoniopsis hirtella
 Camissoniopsis intermedia
 Camissoniopsis micrantha
-Campanula exigua
-Campanula griffinii
 Capsella bursa-pastoris
 Cardamine californica
 Cardamine hirsuta
@@ -425,8 +423,6 @@ Crocidium multicaule
 Crocosmia ×crocosmiiflora
 Croton californicus
 Croton setiger
-Crypsis schoenoides
-Crypsis vaginiflora
 Cryptantha clevelandii var. florosa
 Cryptantha corollata
 Cryptantha flaccida
@@ -483,6 +479,7 @@ Delphinium parryi subsp. parryi
 Delphinium patens subsp. patens
 Delphinium variegatum subsp. variegatum
 Dendromecon rigida
+Deschampsia bolanderi
 Deschampsia cespitosa subsp. cespitosa
 Deschampsia cespitosa subsp. holciformis
 Deschampsia danthonioides
@@ -501,7 +498,7 @@ Diplacus bolanderi
 Diplacus douglasii
 Diplacus rattanii
 Dipsacus sativus
-Dipterostemon capitatus
+Dipterostemon capitatus subsp. capitatus
 Dirca occidentalis
 Distichlis spicata
 Dittrichia graveolens
@@ -613,9 +610,9 @@ Erodium brachycarpum
 Erodium cicutarium
 Erodium malacoides
 Erodium moschatum
+Eryngium aristulatum
 Eryngium aristulatum var. aristulatum
 Eryngium aristulatum var. hooveri
-Eryngium aristulatum
 Eryngium armatum
 Eryngium articulatum
 Eryngium castrense
@@ -808,6 +805,7 @@ Isoetes howellii
 Isolepis carinata
 Isolepis cernua
 Iva axillaris
+Jacobaea vulgaris subsp. vulgaris
 Jaumea carnosa
 Juglans hindsii
 Juncus acuminatus
@@ -972,7 +970,7 @@ Madia elegans
 Madia exigua
 Madia gracilis
 Madia sativa
-Maianthemum racemosum
+Maianthemum racemosum subsp. amplexicaule
 Maianthemum stellatum
 Malacothamnus arcuatus var. elmeri
 Malacothamnus fremontii var. fremontii
@@ -1076,8 +1074,8 @@ Nemophila heterophylla
 Nemophila menziesii var. menziesii
 Nemophila parviflora var. parviflora
 Nemophila pedunculata
-Nicotiana attenuata
 Nicotiana acuminata var. multiflora
+Nicotiana attenuata
 Nicotiana glauca
 Nicotiana quadrivalvis
 Nitrophila occidentalis
@@ -1305,6 +1303,8 @@ Ranunculus repens
 Ranunculus sceleratus
 Raphanus raphanistrum
 Raphanus sativus
+Ravenella exigua
+Ravenella griffinii
 Rhamnus alaternus
 Rhamnus crocea
 Rhamnus ilicifolia
@@ -1398,7 +1398,6 @@ Schoenoplectus californicus
 Schoenoplectus pungens var. longispicatus
 Scirpus microcarpus
 Scolymus hispanicus
-Scribneria bolanderi
 Scrophularia californica
 Scutellaria californica
 Scutellaria siphocampyloides
@@ -1411,7 +1410,6 @@ Senecio aronicoides
 Senecio flaccidus var. douglasii
 Senecio glomeratus
 Senecio hydrophilus
-Senecio jacobaea
 Senecio minimus
 Senecio sylvaticus
 Senecio vulgaris
@@ -1442,7 +1440,7 @@ Solanum elaeagnifolium
 Solanum furcatum
 Solanum lanceolatum
 Solanum nigrum
-Solanum physalifolium var. nitidibaccatum
+Solanum nitidibaccatum
 Solanum umbelliferum
 Soleirolia soleirolii
 Solidago elongata
@@ -1455,10 +1453,6 @@ Sorghum bicolor
 Sorghum halepense
 Sparganium eurycarpum var. eurycarpum
 Sparganium eurycarpum var. greenei
-Spartina alterniflora
-Spartina densiflora
-Spartina foliosa
-Spartina patens
 Spartium junceum
 Spergula arvensis
 Spergularia bocconi
@@ -1471,7 +1465,13 @@ Spergularia rubra
 Spergularia villosa
 Spiranthes romanzoffiana
 Sporobolus airoides
+Sporobolus alterniflorus
+Sporobolus densiflorus
+Sporobolus foliosus
 Sporobolus indicus
+Sporobolus niliacus
+Sporobolus pumilus
+Sporobolus schoenoides
 Stachys ajugoides
 Stachys albens
 Stachys pycnantha
@@ -1569,7 +1569,7 @@ Triglochin maritima
 Triglochin scilloides
 Triglochin striata
 Trillium chloropetalum
-Trillium ovatum subsp. ovatum
+Trillium ovatum
 Triodanis biflora
 Triphysaria eriantha subsp. eriantha
 Triphysaria pusilla
@@ -1589,8 +1589,8 @@ Ulmus minor
 Umbellularia californica
 Uropappus lindleyi
 Urospermum picroides
-Urtica dioica subsp. gracilis
-Urtica dioica subsp. holosericea
+Urtica gracilis subsp. gracilis
+Urtica gracilis subsp. holosericea
 Urtica urens
 Vaccinium ovatum
 Verbascum blattaria
