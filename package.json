@@ -1,9 +1,9 @@
 {
-    "devDependencies": {
-        "eslint": "^9.11.1"
-    },
-    "dependencies": {
-        "@ca-plant-list/ca-plant-list": "^0.4.8"
-    },
-    "type": "module"
+  "devDependencies": {
+    "eslint": "^10.1.0"
+  },
+  "dependencies": {
+    "@ca-plant-list/ca-plant-list": "^0.4.41"
+  },
+  "type": "module"
 }
