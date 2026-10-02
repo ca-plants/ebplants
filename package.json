@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "eslint": "^10.1.0"
+    "eslint": "^10.11.0"
   },
   "dependencies": {
     "@ca-plant-list/ca-plant-list": "^0.4.41"
